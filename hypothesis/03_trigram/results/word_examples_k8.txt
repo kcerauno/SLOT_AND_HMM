@@ -1,0 +1,50 @@
+======================================================================
+  Viterbi 状態割り当て例 (Trigram HMM fast, k=8)
+======================================================================
+  ag               chars:   ^   a   g   $
+                   state: S0 S6 S0 S5
+
+  al               chars:   ^   a   l   $
+                   state: S0 S6 S0 S5
+
+  am               chars:   ^   a   m   $
+                   state: S0 S6 S0 S5
+
+  an               chars:   ^   a   n   $
+                   state: S0 S6 S0 S5
+
+  ar               chars:   ^   a   r   $
+                   state: S0 S6 S0 S5
+
+  sokedy           chars:   ^   s   o   k   e   d   y   $
+                   state: S0 S6 S4 S7 S2 S3 S5 S5
+
+  sokeey           chars:   ^   s   o   k   e   e   y   $
+                   state: S0 S6 S4 S7 S2 S3 S5 S5
+
+  sokoly           chars:   ^   s   o   k   o   l   y   $
+                   state: S0 S6 S4 S7 S2 S7 S5 S5
+
+  solain           chars:   ^   s   o   l   a   i   n   $
+                   state: S0 S6 S4 S7 S2 S7 S5 S5
+
+  solair           chars:   ^   s   o   l   a   i   r   $
+                   state: S0 S6 S4 S7 S2 S7 S0 S5
+
+  solchd           chars:   ^   s   o   l   c   h   d   $
+                   state: S0 S6 S4 S7 S7 S0 S3 S5
+
+  ycheeytydaiin    chars:   ^   y   c   h   e   e   y   t   y   d   a   i   i   n   $
+                   state: S0 S6 S2 S4 S1 S3 S3 S7 S2 S7 S0 S7 S0 S5 S5
+
+  cheoltchedaiin   chars:   ^   c   h   e   o   l   t   c   h   e   d   a   i   i   n   $
+                   state: S0 S6 S4 S1 S3 S7 S0 S2 S4 S1 S3 S3 S7 S0 S5 S5
+
+  chesokeeoteody   chars:   ^   c   h   e   s   o   k   e   e   o   t   e   o   d   y   $
+                   state: S0 S6 S4 S1 S3 S3 S7 S2 S3 S3 S7 S2 S3 S3 S5 S5
+
+  ooooooooolarsr   chars:   ^   o   o   o   o   o   o   o   o   o   l   a   r   s   r   $
+                   state: S0 S6 S7 S7 S7 S7 S7 S7 S7 S7 S7 S0 S7 S0 S0 S5
+
+  ypchocpheosaiin  chars:   ^   y   p   c   h   o   c   p   h   e   o   s   a   i   i   n   $
+                   state: S0 S6 S7 S2 S4 S1 S7 S4 S2 S1 S3 S7 S0 S7 S0 S5 S5

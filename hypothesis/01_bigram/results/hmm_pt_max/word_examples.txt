@@ -1,0 +1,92 @@
+======================================================================
+  Viterbi 状態割り当て例（k=3, Full HMM）
+======================================================================
+  ag               chars:   ^   a   g   $
+                   state: Pre Suf Cor Cor
+
+  al               chars:   ^   a   l   $
+                   state: Pre Suf Cor Cor
+
+  am               chars:   ^   a   m   $
+                   state: Pre Suf Cor Cor
+
+  an               chars:   ^   a   n   $
+                   state: Pre Suf Cor Cor
+
+  ar               chars:   ^   a   r   $
+                   state: Pre Suf Cor Cor
+
+  as               chars:   ^   a   s   $
+                   state: Pre Suf Suf Cor
+
+  ch               chars:   ^   c   h   $
+                   state: Pre Suf Suf Cor
+
+  co               chars:   ^   c   o   $
+                   state: Pre Suf Suf Cor
+
+  cs               chars:   ^   c   s   $
+                   state: Pre Suf Suf Cor
+
+  cy               chars:   ^   c   y   $
+                   state: Pre Suf Cor Cor
+
+  soiiin           chars:   ^   s   o   i   i   i   n   $
+                   state: Pre Suf Suf Cor Cor Cor Cor Cor
+
+  sokchy           chars:   ^   s   o   k   c   h   y   $
+                   state: Pre Suf Suf Suf Suf Suf Cor Cor
+
+  sokedy           chars:   ^   s   o   k   e   d   y   $
+                   state: Pre Suf Suf Suf Suf Cor Cor Cor
+
+  sokeey           chars:   ^   s   o   k   e   e   y   $
+                   state: Pre Suf Suf Suf Suf Suf Cor Cor
+
+  sokoly           chars:   ^   s   o   k   o   l   y   $
+                   state: Pre Suf Suf Suf Suf Cor Cor Cor
+
+  solain           chars:   ^   s   o   l   a   i   n   $
+                   state: Pre Suf Suf Cor Cor Cor Cor Cor
+
+  solair           chars:   ^   s   o   l   a   i   r   $
+                   state: Pre Suf Suf Cor Cor Cor Cor Cor
+
+  solchd           chars:   ^   s   o   l   c   h   d   $
+                   state: Pre Suf Suf Suf Suf Suf Cor Cor
+
+  soleeg           chars:   ^   s   o   l   e   e   g   $
+                   state: Pre Suf Suf Suf Suf Suf Cor Cor
+
+  solkes           chars:   ^   s   o   l   k   e   s   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Cor
+
+  cheteeeosaiin    chars:   ^   c   h   e   t   e   e   e   o   s   a   i   i   n   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Suf Suf Suf Cor Cor Cor Cor Cor
+
+  chotcheytchol    chars:   ^   c   h   o   t   c   h   e   y   t   c   h   o   l   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Cor Cor
+
+  dolchsyckheol    chars:   ^   d   o   l   c   h   s   y   c   k   h   e   o   l   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Cor Cor
+
+  otcholcheaiin    chars:   ^   o   t   c   h   o   l   c   h   e   a   i   i   n   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Suf Suf Suf Cor Cor Cor Cor Cor
+
+  shapchedyfeey    chars:   ^   s   h   a   p   c   h   e   d   y   f   e   e   y   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Cor Cor
+
+  ycheeytydaiin    chars:   ^   y   c   h   e   e   y   t   y   d   a   i   i   n   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Suf Cor Cor Cor Cor Cor Cor Cor
+
+  cheoltchedaiin   chars:   ^   c   h   e   o   l   t   c   h   e   d   a   i   i   n   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Suf Suf Suf Cor Cor Cor Cor Cor Cor
+
+  chesokeeoteody   chars:   ^   c   h   e   s   o   k   e   e   o   t   e   o   d   y   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Cor Cor Cor
+
+  ooooooooolarsr   chars:   ^   o   o   o   o   o   o   o   o   o   l   a   r   s   r   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Suf Suf Suf Cor Cor Cor Cor Cor Cor
+
+  ypchocpheosaiin  chars:   ^   y   p   c   h   o   c   p   h   e   o   s   a   i   i   n   $
+                   state: Pre Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Suf Cor Cor Cor Cor Cor

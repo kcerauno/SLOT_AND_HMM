@@ -1,0 +1,509 @@
+"""
+slot_hmm_state_analysis.py
+============================
+HMM 状態別デコード分析
+
+全単語を Viterbi デコードし、各状態の占有率と文字出現位置を分析。
+  - 各状態毎に占有率が高い順に単語を出力
+  - その単語中で当該状態が担う位置（語頭・語中・語末）の割合を表示
+
+語頭/語中/語末の定義（単語内文字位置, BOS/EOS を除いた単語本体のみ）:
+  - 位置 0        → 語頭
+  - 位置 1 〜 L-2 → 語中  (L < 3 の場合は N/A)
+  - 位置 L-1      → 語末  (L == 1 の場合は語頭と同位置)
+"""
+
+import sqlite3
+import numpy as np
+import pandas as pd
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+import seaborn as sns
+from pathlib import Path
+from matplotlib import font_manager
+from datetime import datetime
+import warnings
+
+warnings.filterwarnings("ignore")
+
+try:
+    import torch
+except ImportError:
+    print("ERROR: PyTorch がインストールされていません。")
+    import sys
+    sys.exit(1)
+
+
+def log(msg):
+    print(f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {msg}")
+
+
+DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+log(f"Using device: {DEVICE}")
+
+
+def _setup_jp_font():
+    candidates = ["Yu Gothic", "Meiryo", "MS Gothic", "IPAexGothic", "Noto Sans CJK JP"]
+    available = {f.name for f in font_manager.fontManager.ttflist}
+    for name in candidates:
+        if name in available:
+            matplotlib.rcParams["font.family"] = name
+            break
+    matplotlib.rcParams["axes.unicode_minus"] = False
+
+
+_setup_jp_font()
+
+# ── 設定 ──────────────────────────────────────────────────────────────
+DB_PATH      = "data/voynich.db"
+MODEL_CACHE  = Path("hypothesis/01_bigram/results/hmm_model_cache")
+OUT_DIR      = Path("hypothesis/01_bigram/results/hmm_state_analysis")
+MODEL_CACHE.mkdir(parents=True, exist_ok=True)
+OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+#K_LIST       = [7, 8]
+K_LIST       = [9, 10]
+#K_LIST       = [10]
+N_RESTARTS   = 20
+N_ITER       = 200
+TOL          = 1e-4
+MIN_WORD_LEN = 2
+TOP_N        = 30       # 各状態の上位表示単語数
+PLOT_TOP_N   = 20       # プロット用
+
+BOS_CHAR, EOS_CHAR, PAD_CHAR = "^", "$", "_"
+
+
+# ── データ準備 ────────────────────────────────────────────────────────
+def prepare_batched_data(words, char2idx):
+    processed = []
+    for w in words:
+        processed.append(
+            [char2idx[BOS_CHAR]] + [char2idx[c] for c in w] + [char2idx[EOS_CHAR]]
+        )
+    max_len = max(len(p) for p in processed)
+    X_matrix, mask = [], []
+    for p in processed:
+        pad_len = max_len - len(p)
+        X_matrix.append(p + [char2idx[PAD_CHAR]] * pad_len)
+        mask.append([1.0] * len(p) + [0.0] * pad_len)
+    return np.array(X_matrix, dtype=np.int16), np.array(mask, dtype=np.float32), max_len
+
+
+# ── HMM (slot_hmm_pytorch_max_speed.py と同一実装) ─────────────────
+class MaxSpeedHMM_PT:
+    def __init__(self, n_restarts, n_components, n_vocab, device=DEVICE):
+        self.b = n_restarts
+        self.k = n_components
+        self.v = n_vocab
+        self.device = device
+        self.log_startprob = None
+        self.log_transmat  = None
+        self.log_emission  = None
+
+    def _init_params(self, seed=42):
+        torch.manual_seed(seed)
+        s = torch.rand(self.b, self.k, device=self.device) + 0.5
+        self.log_startprob = torch.log(s / s.sum(dim=1, keepdim=True))
+        t = torch.rand(self.b, self.k, self.k, device=self.device) + 0.5
+        self.log_transmat = torch.log(t / t.sum(dim=2, keepdim=True))
+        e = torch.rand(self.b, self.k, self.v, device=self.device) + 0.5
+        self.log_emission = torch.log(e / e.sum(dim=2, keepdim=True))
+
+    def fit(self, X_pt, mask_pt, n_iter=N_ITER, tol=TOL, left_to_right=False):
+        N, T = X_pt.shape
+        B, K = self.b, self.k
+        last_idx = (mask_pt.sum(dim=1) - 1).long()
+        n_idx    = torch.arange(N, device=self.device)
+        prev_logL  = torch.full((B,), -float("inf"), device=self.device)
+        total_logL = prev_logL.clone()
+
+        for it in range(n_iter):
+            # Forward
+            log_alpha = torch.empty(T, N, B, K, device=self.device)
+            emiss_0 = self.log_emission[:, :, X_pt[:, 0]].permute(2, 0, 1)
+            log_alpha[0] = self.log_startprob.unsqueeze(0) + emiss_0
+            for t in range(1, T):
+                prev = log_alpha[t-1].unsqueeze(3) + self.log_transmat.unsqueeze(0)
+                sum_prev = torch.logsumexp(prev, dim=2)
+                emiss_t = self.log_emission[:, :, X_pt[:, t]].permute(2, 0, 1)
+                log_alpha[t] = sum_prev + emiss_t
+
+            # Backward
+            log_beta = torch.full((T, N, B, K), -float("inf"), device=self.device)
+            log_beta[last_idx, n_idx] = 0.0
+            for t in range(T-2, -1, -1):
+                emiss_tp1 = self.log_emission[:, :, X_pt[:, t+1]].permute(2, 0, 1).unsqueeze(2)
+                nxt = self.log_transmat.unsqueeze(0) + emiss_tp1 + log_beta[t+1].unsqueeze(2)
+                new_beta = torch.logsumexp(nxt, dim=3)
+                is_term = (last_idx == t).view(N, 1, 1)
+                log_beta[t] = torch.where(is_term, log_beta[t], new_beta)
+
+            # Log-likelihood
+            alpha_swapped = log_alpha.permute(1, 0, 2, 3)
+            end_alpha = torch.gather(
+                alpha_swapped, 1,
+                last_idx.view(-1, 1, 1, 1).expand(-1, 1, B, K)
+            ).squeeze(1)
+            logL_per_word = torch.logsumexp(end_alpha, dim=2)
+            total_logL    = logL_per_word.sum(dim=0)
+
+            if it > 0 and (total_logL - prev_logL).abs().max() < tol:
+                break
+            prev_logL = total_logL.clone()
+
+            # M-step
+            log_gamma = log_alpha + log_beta
+            norm_factor    = torch.logsumexp(log_gamma, dim=3, keepdim=True)
+            log_gamma_norm = torch.nan_to_num(log_gamma - norm_factor, nan=-float("inf"))
+            log_gamma_norm = log_gamma_norm + torch.log(
+                mask_pt.permute(1, 0).unsqueeze(2).unsqueeze(3)
+            )
+
+            xi_mask = mask_pt[:, :-1] * mask_pt[:, 1:]
+            log_xi_mask = torch.log(xi_mask.permute(1, 0).view(T-1, N, 1, 1, 1))
+
+            new_log_start = torch.logsumexp(log_gamma_norm[0], dim=0)
+            self.log_startprob = new_log_start - torch.logsumexp(new_log_start, dim=1, keepdim=True)
+
+            # log_xi を B 次元でチャンク処理してGPUメモリを節約
+            # 一括確保: (T-1,N,B,K,K) → チャンク: (T-1,N,B_CHUNK,K,K)
+            B_CHUNK = 4
+            new_log_trans = torch.full((B, K, K), -float("inf"), device=self.device)
+            for b_s in range(0, B, B_CHUNK):
+                b_e = min(b_s + B_CHUNK, B)
+                bc  = b_e - b_s
+                emiss_b = (
+                    self.log_emission[b_s:b_e, :, X_pt[:, 1:]]
+                    .permute(3, 2, 0, 1)
+                    .unsqueeze(3)
+                )  # (T-1, N, bc, 1, K)
+                log_xi_b = (
+                    log_alpha[:-1, :, b_s:b_e].unsqueeze(4)
+                    + self.log_transmat[b_s:b_e].view(1, 1, bc, K, K)
+                    + emiss_b
+                    + log_beta[1:, :, b_s:b_e].unsqueeze(3)
+                )  # (T-1, N, bc, K, K)
+                log_xi_b = log_xi_b + log_xi_mask
+                log_xi_b = torch.nan_to_num(
+                    log_xi_b - norm_factor[:-1, :, b_s:b_e].unsqueeze(4),
+                    nan=-float("inf")
+                )
+                new_log_trans[b_s:b_e] = torch.logsumexp(log_xi_b, dim=(0, 1))
+            if left_to_right:
+                m = torch.triu(torch.ones(K, K, device=self.device)).bool()
+                new_log_trans[:, ~m] = -float("inf")
+            self.log_transmat = new_log_trans - torch.logsumexp(new_log_trans, dim=2, keepdim=True)
+
+            gamma_flat = torch.exp(log_gamma_norm).permute(2, 3, 0, 1).reshape(B, K, -1)
+            X_flat   = X_pt.permute(1, 0).reshape(-1)
+            X_onehot = torch.zeros(T * N, self.v, device=self.device)
+            X_onehot.scatter_(1, X_flat.view(-1, 1), 1.0)
+            new_emiss     = torch.matmul(gamma_flat, X_onehot)
+            new_log_emiss = torch.log(new_emiss + 1e-35)
+            self.log_emission = new_log_emiss - torch.logsumexp(new_log_emiss, dim=2, keepdim=True)
+
+        return total_logL
+
+    def get_best(self, logL_pt):
+        idx = torch.argmax(logL_pt).item()
+        return {
+            "start": torch.exp(self.log_startprob[idx]).cpu().numpy(),
+            "trans": torch.exp(self.log_transmat[idx]).cpu().numpy(),
+            "emiss": torch.exp(self.log_emission[idx]).cpu().numpy(),
+            "logL":  logL_pt[idx].item(),
+        }
+
+
+# ── Viterbi ────────────────────────────────────────────────────────
+def viterbi_pt(log_start, log_trans, log_emiss, X_np):
+    X = torch.tensor(X_np, dtype=torch.long, device=DEVICE)
+    T, K = X.shape[0], log_start.shape[0]
+    log_delta = torch.empty(T, K, device=DEVICE)
+    psi       = torch.empty(T, K, dtype=torch.long, device=DEVICE)
+    log_delta[0] = log_start + log_emiss[:, X[0]]
+    psi[0] = 0
+    for t in range(1, T):
+        vals = log_delta[t-1].unsqueeze(1) + log_trans
+        max_vals, argmax_vals = torch.max(vals, dim=0)
+        log_delta[t] = max_vals + log_emiss[:, X[t]]
+        psi[t] = argmax_vals
+    path = torch.empty(T, dtype=torch.long, device=DEVICE)
+    path[T-1] = torch.argmax(log_delta[T-1])
+    for t in range(T-2, -1, -1):
+        path[t] = psi[t+1, path[t+1]]
+    return path.cpu().numpy()
+
+
+# ── モデルキャッシュ ───────────────────────────────────────────────
+def save_model(info, k):
+    np.savez_compressed(
+        MODEL_CACHE / f"full_k{k}.npz",
+        start=info["start"], trans=info["trans"],
+        emiss=info["emiss"], logL=np.array([info["logL"]])
+    )
+
+def load_model(k):
+    path = MODEL_CACHE / f"full_k{k}.npz"
+    if path.exists():
+        d = np.load(path)
+        return {
+            "start": d["start"], "trans": d["trans"],
+            "emiss": d["emiss"], "logL": float(d["logL"][0])
+        }
+    return None
+
+
+# ── 全単語デコード + 位置分析 ──────────────────────────────────────
+def decode_and_analyze(info, words, char2idx, k):
+    """
+    各単語を Viterbi デコードし、状態ごとの占有率と位置内訳を返す。
+
+    Returns
+    -------
+    dict[word] -> dict with keys:
+      "occ"  : np.array(k,)  各状態の占有率 (0..1)
+      "head" : np.array(k,)  語頭(位置0)が各状態かどうか (0 or 1)
+      "mid"  : np.array(k,)  語中の各状態占有率 (0..1, L<3 の場合 NaN)
+      "tail" : np.array(k,)  語末(位置L-1)が各状態かどうか (0 or 1)
+    """
+    log_start = torch.tensor(np.log(info["start"] + 1e-35), device=DEVICE)
+    log_trans  = torch.tensor(np.log(info["trans"]  + 1e-35), device=DEVICE)
+    log_emiss  = torch.tensor(np.log(info["emiss"]  + 1e-35), device=DEVICE)
+
+    results = {}
+    for w in words:
+        seq = np.array(
+            [char2idx[BOS_CHAR]] + [char2idx[c] for c in w] + [char2idx[EOS_CHAR]],
+            dtype=np.int32,
+        )
+        try:
+            path = viterbi_pt(log_start, log_trans, log_emiss, seq)
+        except Exception:
+            continue
+
+        states = path[1:-1]   # BOS / EOS を除いた本体
+        L = len(states)
+        if L == 0:
+            continue
+
+        occ  = np.bincount(states, minlength=k).astype(float) / L
+        head = np.array([1.0 if states[0]  == s else 0.0 for s in range(k)])
+        tail = np.array([1.0 if states[-1] == s else 0.0 for s in range(k)])
+
+        if L >= 3:
+            mid_states = states[1:-1]
+            mid = np.array([
+                np.sum(mid_states == s) / (L - 2) for s in range(k)
+            ])
+        else:
+            mid = np.full(k, np.nan)
+
+        results[w] = {"occ": occ, "head": head, "mid": mid, "tail": tail}
+
+    return results
+
+
+# ── 状態ラベル ──────────────────────────────────────────────────────
+def _state_label(i, k):
+    labels = {
+        2: ["Pref/Core", "Suff"],
+        3: ["Pref",      "Core", "Suff"],
+        4: ["Pref",      "C1",   "C2",   "Suff"],
+        5: ["Pref",      "C1",   "C2",   "C3",  "Suff"],
+    }
+    return labels.get(k, [f"S{j}" for j in range(k)])[i]
+
+
+# ── テキストレポート ────────────────────────────────────────────────
+def build_report(analysis, k, top_n=TOP_N):
+    state_labels = [_state_label(i, k) for i in range(k)]
+    words = list(analysis.keys())
+
+    lines = [
+        "=" * 80,
+        f"HMM 状態別デコード分析  k={k}",
+        "  語頭=位置0, 語中=位置1〜L-2, 語末=位置L-1 (BOS/EOS 除外)",
+        "=" * 80,
+        "",
+    ]
+
+    for s in range(k):
+        top = sorted(words, key=lambda w: analysis[w]["occ"][s], reverse=True)[:top_n]
+        lines += [
+            "─" * 80,
+            f"  State {s}: {state_labels[s]}",
+            "─" * 80,
+            f"  {'単語':<16} {'占有率':>7}  {'語頭':>6}  {'語中':>6}  {'語末':>6}",
+            f"  {'-'*16} {'-'*7}  {'-'*6}  {'-'*6}  {'-'*6}",
+        ]
+        for w in top:
+            d   = analysis[w]
+            occ = d["occ"][s]  * 100
+            hd  = d["head"][s] * 100
+            tl  = d["tail"][s] * 100
+            md  = d["mid"][s]
+            mid_str = f"{md*100:5.0f}%" if not np.isnan(md) else "  N/A"
+            lines.append(
+                f"  {w:<16} {occ:>6.1f}%  {hd:>5.0f}%  {mid_str}  {tl:>5.0f}%"
+            )
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+# ── 可視化 1: 占有率バーチャート ─────────────────────────────────────
+def plot_top_words(analysis, k, out_dir, top_n=PLOT_TOP_N):
+    state_labels = [_state_label(i, k) for i in range(k)]
+    words = list(analysis.keys())
+
+    fig, axes = plt.subplots(1, k, figsize=(6 * k, max(8, top_n * 0.42)))
+    if k == 1:
+        axes = [axes]
+
+    for s, ax in enumerate(axes):
+        top = sorted(words, key=lambda w: analysis[w]["occ"][s], reverse=True)[:top_n]
+        vals = [analysis[w]["occ"][s] * 100 for w in top]
+        colors = plt.cm.Blues(np.linspace(0.9, 0.4, len(top)))
+        bars = ax.barh(range(len(top)), vals, color=colors)
+        ax.set_yticks(range(len(top)))
+        ax.set_yticklabels(top, fontsize=8)
+        ax.invert_yaxis()
+        ax.set_xlabel("占有率 (%)", fontsize=9)
+        ax.set_title(f"State {s}: {state_labels[s]}", fontsize=11)
+        ax.set_xlim(0, 108)
+        for bar, v in zip(bars, vals):
+            ax.text(
+                v + 0.5, bar.get_y() + bar.get_height() / 2,
+                f"{v:.0f}%", va="center", fontsize=7,
+            )
+
+    plt.suptitle(f"各状態の上位 {top_n} 単語（占有率）  k={k}", fontsize=13)
+    plt.tight_layout()
+    path = out_dir / f"state_topwords_k{k}.png"
+    plt.savefig(path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    log(f"  Saved: {path.name}")
+
+
+# ── 可視化 2: 語頭/語中/語末 ヒートマップ ──────────────────────────
+def plot_position_heatmap(analysis, k, out_dir, top_n=PLOT_TOP_N):
+    state_labels = [_state_label(i, k) for i in range(k)]
+    words = list(analysis.keys())
+
+    fig, axes = plt.subplots(1, k, figsize=(5 * k, max(top_n * 0.42, 7)))
+    if k == 1:
+        axes = [axes]
+
+    for s, ax in enumerate(axes):
+        top = sorted(words, key=lambda w: analysis[w]["occ"][s], reverse=True)[:top_n]
+
+        rows = []
+        for w in top:
+            d  = analysis[w]
+            hd = d["head"][s] * 100
+            md = d["mid"][s]  * 100 if not np.isnan(d["mid"][s]) else np.nan
+            tl = d["tail"][s] * 100
+            rows.append([hd, md, tl])
+
+        df = pd.DataFrame(rows, index=top, columns=["語頭", "語中", "語末"])
+
+        # NaN セルは灰色で表示するため mask を作成
+        mask = df.isna()
+        df_filled = df.fillna(0)
+
+        sns.heatmap(
+            df_filled, ax=ax, cmap="YlOrRd", vmin=0, vmax=100,
+            annot=False, linewidths=0.3, cbar_kws={"shrink": 0.6},
+            mask=mask,
+        )
+        # 数値アノテーション (NaN セルは "N/A")
+        for i, row in enumerate(rows):
+            for j, val in enumerate(row):
+                txt = "N/A" if np.isnan(val) else f"{val:.0f}"
+                ax.text(
+                    j + 0.5, i + 0.5, txt,
+                    ha="center", va="center", fontsize=7,
+                    color="black",
+                )
+
+        ax.set_title(f"State {s}: {state_labels[s]}\n(占有率上位 {top_n} 単語)", fontsize=10)
+        ax.tick_params(axis="y", labelsize=8)
+        ax.set_xlabel("")
+
+    plt.suptitle(f"語頭/語中/語末 出現割合 (%)  k={k}", fontsize=13)
+    plt.tight_layout()
+    path = out_dir / f"position_heatmap_k{k}.png"
+    plt.savefig(path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    log(f"  Saved: {path.name}")
+
+
+# ════════════════════════════════════════════════════════════════════════
+# メイン
+# ════════════════════════════════════════════════════════════════════════
+if __name__ == "__main__":
+    log("HMM 状態別デコード分析 開始")
+
+    # ── データ読み込み ────────────────────────────────────────────────
+    conn      = sqlite3.connect(DB_PATH)
+    words_all = pd.read_sql_query(
+        "SELECT word FROM words_enriched WHERE word IS NOT NULL AND word != ''",
+        conn,
+    )["word"].tolist()
+    conn.close()
+
+    all_types = sorted(set(words_all))
+    all_types = [w for w in all_types if len(w) >= MIN_WORD_LEN]
+    log(f"ユニーク単語数: {len(all_types)}")
+
+    # 語彙構築
+    raw_chars = sorted(set(c for w in all_types for c in w))
+    all_chars = [BOS_CHAR, EOS_CHAR, PAD_CHAR] + raw_chars
+    char2idx  = {c: i for i, c in enumerate(all_chars)}
+    V         = len(all_chars)
+
+    X_np, mask_np, MaxLen = prepare_batched_data(all_types, char2idx)
+    X_pt    = torch.tensor(X_np,    dtype=torch.long, device=DEVICE)
+    mask_pt = torch.tensor(mask_np, device=DEVICE)
+    log(f"語彙サイズ: {V},  最大単語長 T: {MaxLen}")
+
+    all_reports = []
+
+    for k in K_LIST:
+        log(f"{'='*50}\n  k = {k}\n{'='*50}")
+
+        # ── モデル取得（キャッシュ優先）────────────────────────────
+        info = load_model(k)
+        if info is not None:
+            log(f"  キャッシュからロード (logL={info['logL']:.2f})")
+        else:
+            log(f"  Full HMM 訓練中 ({N_RESTARTS} 試行 × {N_ITER} iter)...")
+            model = MaxSpeedHMM_PT(N_RESTARTS, k, V, DEVICE)
+            model._init_params(seed=42)
+            ll   = model.fit(X_pt, mask_pt, left_to_right=False)
+            info = model.get_best(ll)
+            save_model(info, k)
+            log(f"  訓練完了 logL={info['logL']:.2f}  (キャッシュ保存)")
+
+        # ── 全単語デコード + 位置分析 ─────────────────────────────
+        log(f"  Viterbi デコード中 ({len(all_types)} 単語)...")
+        analysis = decode_and_analyze(info, all_types, char2idx, k)
+        log(f"  デコード完了: {len(analysis)} 単語")
+
+        # ── レポート ──────────────────────────────────────────────
+        report = build_report(analysis, k, top_n=TOP_N)
+        all_reports.append(report)
+        print(report)
+
+        # ── 可視化 ────────────────────────────────────────────────
+        plot_top_words(analysis, k, OUT_DIR, top_n=PLOT_TOP_N)
+        plot_position_heatmap(analysis, k, OUT_DIR, top_n=PLOT_TOP_N)
+
+    # ── レポート保存 ──────────────────────────────────────────────────
+    report_path = OUT_DIR / "state_analysis_report.txt"
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write("\n\n".join(all_reports))
+    log(f"\nレポート保存: {report_path}")
+    log(f"完了。出力先: {OUT_DIR.resolve()}")

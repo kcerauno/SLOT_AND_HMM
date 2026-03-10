@@ -1,0 +1,3232 @@
+# 複合語一覧 (3,229 語) — V3_expand_va2: 拡張: slot 10 (V_a2) に 'e' 追加 → [o, a, y, e]
+# 形式: [N基] 元語  ->  base1 + base2 + ...
+
+[2基] acheody  ->  a + cheody
+[4基] ackaldy  ->  a + c + ka + ldy
+[2基] acthedy  ->  a + cthedy
+[4基] adairchdy  ->  a + d + ai + rchdy
+[2基] adal  ->  a + dal
+[2基] adam  ->  a + dam
+[2基] adar  ->  a + dar
+[2基] adchey  ->  a + dchey
+[2基] adeeody  ->  a + deeody
+[2基] ador  ->  a + dor
+[4基] aeeodeey  ->  a + e + e + odeey
+[3基] aekeeey  ->  a + e + keeey
+[2基] aes  ->  a + es
+[2基] ag  ->  a + g
+[4基] aicky  ->  a + i + c + ky
+[3基] aiees  ->  a + i + ees
+[4基] aifhhy  ->  a + if + h + hy
+[4基] aifhy  ->  a + i + f + hy
+[4基] aiichy  ->  a + i + i + chy
+[4基] aiicthy  ->  a + i + i + cthy
+[4基] aiidal  ->  a + i + i + dal
+[4基] aiiikhedy  ->  a + i + iik + hedy
+[4基] aiiiky  ->  a + i + ii + ky
+[4基] aiiinro  ->  a + i + iin + ro
+[4基] aiikam  ->  a + i + i + kam
+[4基] aiildy  ->  a + i + i + ldy
+[4基] aiinal  ->  a + i + in + al
+[4基] aiinod  ->  a + i + in + od
+[4基] aiinog  ->  a + i + in + og
+[4基] aiioly  ->  a + i + i + oly
+[4基] aiiral  ->  a + i + i + ral
+[4基] aiiraly  ->  a + i + i + raly
+[4基] aiirchar  ->  a + i + i + rchar
+[4基] aiirody  ->  a + i + i + rody
+[4基] aiirol  ->  a + i + i + rol
+[4基] aiisaim  ->  a + i + i + saim
+[4基] aiisockhy  ->  a + i + i + sockhy
+[4基] aiisod  ->  a + i + i + sod
+[4基] aikhdy  ->  a + i + k + hdy
+[4基] aikheky  ->  a + i + k + heky
+[4基] aikhy  ->  a + i + k + hy
+[3基] aildy  ->  a + i + ldy
+[4基] ainaly  ->  a + i + n + aly
+[4基] ainam  ->  a + i + n + am
+[4基] ainarals  ->  a + in + a + rals
+[4基] aindar  ->  a + i + n + dar
+[3基] aiodam  ->  a + i + odam
+[4基] aiphey  ->  a + i + p + hey
+[4基] aiphhey  ->  a + ip + h + hey
+[4基] aiphy  ->  a + i + p + hy
+[3基] airal  ->  a + i + ral
+[4基] airaldy  ->  a + i + ra + ldy
+[3基] airam  ->  a + i + ram
+[3基] airar  ->  a + i + rar
+[3基] airchy  ->  a + i + rchy
+[3基] airod  ->  a + i + rod
+[3基] airody  ->  a + i + rody
+[3基] airol  ->  a + i + rol
+[3基] airolm  ->  a + i + rolm
+[3基] airols  ->  a + i + rols
+[4基] airorlchy  ->  a + i + ro + rlchy
+[3基] airoy  ->  a + i + roy
+[3基] aisam  ->  a + i + sam
+[4基] aithchr  ->  a + i + t + hchr
+[4基] aithy  ->  a + i + t + hy
+[4基] akaiiky  ->  a + k + aii + ky
+[2基] akaiin  ->  a + kaiin
+[2基] akain  ->  a + kain
+[2基] akair  ->  a + kair
+[2基] akal  ->  a + kal
+[2基] akar  ->  a + kar
+[4基] akarar  ->  a + k + a + rar
+[2基] akchedy  ->  a + kchedy
+[2基] akchy  ->  a + kchy
+[2基] akey  ->  a + key
+[2基] aky  ->  a + ky
+[2基] alaiiin  ->  a + laiiin
+[2基] alaiin  ->  a + laiin
+[2基] alain  ->  a + lain
+[2基] alair  ->  a + lair
+[4基] alairdy  ->  a + l + ai + rdy
+[2基] alal  ->  a + lal
+[4基] alaldy  ->  a + l + a + ldy
+[4基] alalor  ->  a + l + a + lor
+[2基] alam  ->  a + lam
+[4基] alamchy  ->  a + l + am + chy
+[2基] alar  ->  a + lar
+[2基] alcfhy  ->  a + lcfhy
+[2基] alchd  ->  a + lchd
+[2基] alchdy  ->  a + lchdy
+[2基] alched  ->  a + lched
+[2基] alchedar  ->  a + lchedar
+[2基] alchedy  ->  a + lchedy
+[2基] alcheey  ->  a + lcheey
+[2基] alcheky  ->  a + lcheky
+[2基] alches  ->  a + lches
+[2基] alchey  ->  a + lchey
+[2基] alchky  ->  a + lchky
+[2基] alchl  ->  a + lchl
+[2基] alchol  ->  a + lchol
+[2基] alchor  ->  a + lchor
+[2基] alchy  ->  a + lchy
+[2基] ald  ->  a + ld
+[2基] aldaiin  ->  a + ldaiin
+[4基] aldalosam  ->  a + l + da + losam
+[2基] aldam  ->  a + ldam
+[2基] aldar  ->  a + ldar
+[2基] aldy  ->  a + ldy
+[2基] aldydy  ->  a + ldydy
+[2基] aleedy  ->  a + leedy
+[2基] aleey  ->  a + leey
+[4基] alekeey  ->  a + l + e + keey
+[2基] alfo  ->  a + lfo
+[2基] alfshed  ->  a + lfshed
+[2基] alg  ->  a + lg
+[2基] alkaiin  ->  a + lkaiin
+[2基] alkain  ->  a + lkain
+[2基] alkair  ->  a + lkair
+[2基] alkal  ->  a + lkal
+[2基] alkam  ->  a + lkam
+[2基] alkan  ->  a + lkan
+[2基] alkar  ->  a + lkar
+[2基] alkchdy  ->  a + lkchdy
+[2基] alkeain  ->  a + lkeain
+[2基] alkedy  ->  a + lkedy
+[2基] alkeear  ->  a + lkeear
+[2基] alkeedy  ->  a + lkeedy
+[2基] alkeeol  ->  a + lkeeol
+[2基] alkeey  ->  a + lkeey
+[2基] alkey  ->  a + lkey
+[2基] alkol  ->  a + lkol
+[2基] alky  ->  a + lky
+[2基] allkeam  ->  a + llkeam
+[2基] ally  ->  a + lly
+[2基] aloal  ->  a + loal
+[2基] alod  ->  a + lod
+[2基] alodam  ->  a + lodam
+[2基] alodar  ->  a + lodar
+[2基] alody  ->  a + lody
+[2基] aloees  ->  a + loees
+[2基] alog  ->  a + log
+[2基] aloiiin  ->  a + loiiin
+[2基] aloiin  ->  a + loiin
+[2基] alol  ->  a + lol
+[2基] alold  ->  a + lold
+[2基] aloldy  ->  a + loldy
+[3基] alolfchy  ->  a + l + olfchy
+[2基] alolor  ->  a + lolor
+[2基] alols  ->  a + lols
+[3基] alolshedy  ->  a + l + olshedy
+[2基] aloly  ->  a + loly
+[2基] alom  ->  a + lom
+[2基] alor  ->  a + lor
+[2基] alory  ->  a + lory
+[2基] alos  ->  a + los
+[2基] alosheey  ->  a + losheey
+[2基] aloy  ->  a + loy
+[2基] alpchdar  ->  a + lpchdar
+[2基] alpchdy  ->  a + lpchdy
+[3基] alshdr  ->  a + l + shdr
+[3基] alshdy  ->  a + l + shdy
+[3基] alshedy  ->  a + l + shedy
+[3基] alshees  ->  a + l + shees
+[3基] alshey  ->  a + l + shey
+[3基] alshy  ->  a + l + shy
+[2基] alteol  ->  a + lteol
+[2基] alys  ->  a + lys
+[3基] amam  ->  a + m + am
+[3基] aman  ->  a + m + an
+[3基] amchd  ->  a + m + chd
+[3基] amchy  ->  a + m + chy
+[3基] amd  ->  a + m + d
+[3基] amg  ->  a + m + g
+[3基] amod  ->  a + m + od
+[3基] amom  ->  a + m + om
+[2基] aol  ->  a + ol
+[3基] aporair  ->  a + p + orair
+[2基] apy  ->  a + py
+[2基] araiin  ->  a + raiin
+[2基] arain  ->  a + rain
+[2基] arair  ->  a + rair
+[4基] arairaly  ->  a + r + ai + raly
+[4基] arakaiin  ->  a + r + a + kaiin
+[2基] aral  ->  a + ral
+[4基] aralary  ->  a + r + a + lary
+[4基] arald  ->  a + r + a + ld
+[4基] aralos  ->  a + r + a + los
+[2基] arals  ->  a + rals
+[2基] araly  ->  a + raly
+[2基] aram  ->  a + ram
+[2基] arar  ->  a + rar
+[4基] araral  ->  a + r + a + ral
+[4基] araram  ->  a + r + a + ram
+[4基] ararchodaiin  ->  a + r + a + rchodaiin
+[4基] araroy  ->  a + r + a + roy
+[2基] arary  ->  a + rary
+[4基] araydy  ->  a + r + a + ydy
+[2基] archeey  ->  a + rcheey
+[2基] archeody  ->  a + rcheody
+[2基] archeor  ->  a + rcheor
+[2基] archol  ->  a + rchol
+[2基] arcsy  ->  a + rcsy
+[2基] are  ->  a + re
+[2基] aree  ->  a + ree
+[2基] arg  ->  a + rg
+[2基] ariin  ->  a + riin
+[2基] arod  ->  a + rod
+[2基] arodaim  ->  a + rodaim
+[2基] arodchedy  ->  a + rodchedy
+[2基] arodl  ->  a + rodl
+[2基] arodly  ->  a + rodly
+[2基] arody  ->  a + rody
+[2基] aroiin  ->  a + roiin
+[2基] aroka  ->  a + roka
+[2基] arol  ->  a + rol
+[3基] arolkeey  ->  a + r + olkeey
+[3基] arolky  ->  a + r + olky
+[2基] arolor  ->  a + rolor
+[2基] arolsas  ->  a + rolsas
+[2基] arom  ->  a + rom
+[2基] aror  ->  a + ror
+[3基] arorochees  ->  a + r + orochees
+[2基] arorsheey  ->  a + rorsheey
+[2基] aros  ->  a + ros
+[2基] aroshy  ->  a + roshy
+[2基] aroteey  ->  a + roteey
+[2基] arotey  ->  a + rotey
+[4基] arsheg  ->  a + r + she + g
+[3基] arshey  ->  a + r + shey
+[2基] arxor  ->  a + rxor
+[2基] aryly  ->  a + ryly
+[2基] asa  ->  a + sa
+[2基] asaly  ->  a + saly
+[2基] ash  ->  a + sh
+[2基] ataiin  ->  a + taiin
+[4基] ataseos  ->  a + t + a + seos
+[2基] ateey  ->  a + teey
+[2基] atey  ->  a + tey
+[3基] atolg  ->  a + t + olg
+[2基] aty  ->  a + ty
+[2基] axor  ->  a + xor
+[2基] cckheor  ->  c + ckheor
+[4基] cckhhy  ->  c + ck + h + hy
+[4基] ceectheey  ->  c + e + e + ctheey
+[4基] cfarasr  ->  c + f + a + rasr
+[4基] cfhdorol  ->  c + f + h + dorol
+[4基] cfhekchdy  ->  c + f + he + kchdy
+[4基] cfhodoral  ->  c + f + h + odoral
+[4基] chadaiin  ->  c + h + a + daiin
+[4基] chaiind  ->  c + h + aiin + d
+[4基] chaindy  ->  c + h + ain + dy
+[4基] chairal  ->  c + h + ai + ral
+[4基] chakain  ->  c + h + a + kain
+[4基] chakeey  ->  c + h + a + keey
+[4基] chakod  ->  c + h + a + kod
+[4基] chalaiin  ->  c + h + a + laiin
+[4基] chalal  ->  c + h + a + lal
+[4基] chalaly  ->  c + h + a + laly
+[4基] chald  ->  c + h + a + ld
+[4基] chalg  ->  c + h + a + lg
+[4基] chalkain  ->  c + h + a + lkain
+[4基] chalkar  ->  c + h + a + lkar
+[4基] chalkeedy  ->  c + h + a + lkeedy
+[4基] chalkeeedy  ->  c + h + a + lkeeedy
+[4基] chalkeey  ->  c + h + a + lkeey
+[4基] chalolky  ->  c + h + al + olky
+[4基] chaloly  ->  c + h + a + loly
+[4基] chalor  ->  c + h + a + lor
+[4基] chalsain  ->  c + h + a + lsain
+[4基] chaltar  ->  c + h + a + ltar
+[4基] chapchy  ->  c + h + a + pchy
+[4基] charaiin  ->  c + h + a + raiin
+[4基] charain  ->  c + h + a + rain
+[4基] charam  ->  c + h + a + ram
+[4基] chariin  ->  c + h + a + riin
+[4基] charor  ->  c + h + a + ror
+[4基] chataiin  ->  c + h + a + taiin
+[4基] chcfhhy  ->  c + h + cfh + hy
+[2基] chcheey  ->  c + hcheey
+[2基] chcheky  ->  c + hcheky
+[2基] chchetal  ->  c + hchetal
+[2基] chchky  ->  c + hchky
+[4基] chchoty  ->  c + h + c + hoty
+[4基] chchsty  ->  c + h + ch + sty
+[2基] chchty  ->  c + hchty
+[4基] chckaiin  ->  c + h + c + kaiin
+[4基] chckhhhy  ->  c + hckh + h + hy
+[4基] chckhhy  ->  c + h + ckh + hy
+[4基] chckhyfchy  ->  c + h + ck + hyfchy
+[4基] chckshy  ->  c + h + c + kshy
+[4基] chcky  ->  c + h + c + ky
+[4基] chcpaiin  ->  c + h + c + paiin
+[4基] chcphhdy  ->  c + h + cph + hdy
+[4基] chcphhy  ->  c + h + cph + hy
+[4基] chcpy  ->  c + h + c + py
+[4基] chcta  ->  c + h + c + ta
+[4基] chctey  ->  c + h + c + tey
+[4基] chcthhy  ->  c + h + cth + hy
+[4基] chcthihy  ->  c + h + cthi + hy
+[4基] chcty  ->  c + h + c + ty
+[4基] chdaiirsainy  ->  c + h + daii + rsainy
+[4基] chdairod  ->  c + h + dai + rod
+[4基] chdalal  ->  c + h + da + lal
+[4基] chdalchdy  ->  c + h + da + lchdy
+[4基] chdaldy  ->  c + h + da + ldy
+[4基] chdalkair  ->  c + h + da + lkair
+[4基] chdalor  ->  c + h + da + lor
+[4基] chdarol  ->  c + h + da + rol
+[2基] chdchdy  ->  c + hdchdy
+[2基] chdchol  ->  c + hdchol
+[2基] chdchy  ->  c + hdchy
+[2基] chdeey  ->  c + hdeey
+[4基] chdlcty  ->  c + h + dlc + ty
+[2基] chdodaiin  ->  c + hdodaiin
+[3基] chdolaiin  ->  c + h + dolaiin
+[3基] chdykchedy  ->  c + h + dykchedy
+[3基] chdypdaiin  ->  c + h + dypdaiin
+[3基] chdyshdy  ->  c + h + dyshdy
+[4基] cheaikhy  ->  c + h + eaik + hy
+[4基] chealol  ->  c + h + ea + lol
+[4基] chealor  ->  c + h + ea + lor
+[4基] chealror  ->  c + h + ea + lror
+[4基] cheamar  ->  c + h + eam + ar
+[4基] chearaiin  ->  c + h + ea + raiin
+[4基] checfhy  ->  c + h + e + cfhy
+[4基] checkhd  ->  c + h + e + ckhd
+[4基] checkhdy  ->  c + h + e + ckhdy
+[4基] checkhed  ->  c + h + e + ckhed
+[4基] checkhedy  ->  c + h + e + ckhedy
+[4基] checkhey  ->  c + h + e + ckhey
+[4基] checkho  ->  c + h + e + ckho
+[4基] checkhol  ->  c + h + e + ckhol
+[4基] checkhy  ->  c + h + e + ckhy
+[4基] checphedy  ->  c + h + e + cphedy
+[4基] checphey  ->  c + h + e + cphey
+[4基] checthal  ->  c + h + e + cthal
+[4基] chectham  ->  c + h + e + ctham
+[4基] checthdy  ->  c + h + e + cthdy
+[4基] checthedy  ->  c + h + e + cthedy
+[4基] checthey  ->  c + h + e + cthey
+[4基] checthhy  ->  c + he + cth + hy
+[4基] checthy  ->  c + h + e + cthy
+[4基] chedacphy  ->  c + h + eda + cphy
+[4基] chedalkedy  ->  c + h + eda + lkedy
+[4基] chedalos  ->  c + h + eda + los
+[4基] chedchey  ->  c + h + e + dchey
+[4基] chedchy  ->  c + h + e + dchy
+[4基] chedees  ->  c + h + e + dees
+[4基] chedeey  ->  c + h + e + deey
+[4基] chedkain  ->  c + h + e + dkain
+[4基] chedkaly  ->  c + h + e + dkaly
+[4基] chedkel  ->  c + h + e + dkel
+[4基] chedky  ->  c + h + e + dky
+[4基] chedykar  ->  c + h + e + dykar
+[4基] chedyor  ->  c + h + e + dyor
+[4基] chedyteokain  ->  c + he + dyte + okain
+[4基] chedytey  ->  c + h + e + dytey
+[4基] chedyty  ->  c + h + e + dyty
+[4基] cheeckhody  ->  c + h + ee + ckhody
+[4基] cheecpheey  ->  c + h + ee + cpheey
+[4基] cheecthy  ->  c + h + ee + cthy
+[4基] cheedalaiin  ->  c + h + eeda + laiin
+[4基] cheeetchol  ->  c + h + eee + tchol
+[4基] cheeg  ->  c + h + ee + g
+[4基] cheekchey  ->  c + h + ee + kchey
+[4基] cheekeey  ->  c + h + ee + keey
+[4基] cheekeody  ->  c + h + ee + keody
+[4基] cheeoekey  ->  c + h + ee + oekey
+[4基] cheeokeey  ->  c + h + ee + okeey
+[4基] cheeokseo  ->  c + h + ee + okseo
+[4基] cheeoldair  ->  c + h + ee + oldair
+[4基] cheeoldy  ->  c + h + ee + oldy
+[4基] cheeorfor  ->  c + h + ee + orfor
+[4基] cheeotaiin  ->  c + h + ee + otaiin
+[4基] cheepchdy  ->  c + h + ee + pchdy
+[4基] cheesees  ->  c + h + ee + sees
+[4基] cheeteey  ->  c + h + ee + teey
+[4基] cheeykam  ->  c + h + ee + ykam
+[4基] cheeytey  ->  c + h + ee + ytey
+[4基] chefalas  ->  c + h + efa + las
+[4基] chefchdy  ->  c + h + e + fchdy
+[4基] chefchey  ->  c + h + e + fchey
+[4基] chefchol  ->  c + h + e + fchol
+[4基] chefchy  ->  c + h + e + fchy
+[4基] cheg  ->  c + h + e + g
+[4基] chekaiphy  ->  c + h + ekaip + hy
+[4基] chekaithhy  ->  c + hekait + h + hy
+[4基] chekalchs  ->  c + h + eka + lchs
+[4基] chekchdy  ->  c + h + e + kchdy
+[4基] chekcheey  ->  c + h + e + kcheey
+[4基] chekchey  ->  c + h + e + kchey
+[4基] chekchoy  ->  c + h + e + kchoy
+[4基] chekchy  ->  c + h + e + kchy
+[4基] chekeal  ->  c + h + e + keal
+[4基] chekear  ->  c + h + e + kear
+[4基] chekechy  ->  c + h + e + kechy
+[4基] chekeeal  ->  c + h + e + keeal
+[4基] chekeedy  ->  c + h + e + keedy
+[4基] chekeek  ->  c + h + e + keek
+[4基] chekeen  ->  c + h + e + keen
+[4基] chekeesshy  ->  c + he + kees + shy
+[4基] chekeey  ->  c + h + e + keey
+[4基] chekeg  ->  c + h + eke + g
+[4基] chekeoar  ->  c + h + e + keoar
+[4基] chekeod  ->  c + h + e + keod
+[4基] chekeody  ->  c + h + e + keody
+[4基] chekeol  ->  c + h + e + keol
+[4基] chekeor  ->  c + h + e + keor
+[4基] chekeys  ->  c + h + e + keys
+[4基] chekhol  ->  c + h + ek + hol
+[4基] cheockay  ->  c + h + eoc + kay
+[4基] cheockhdy  ->  c + h + e + ockhdy
+[4基] cheockhedchy  ->  c + he + ockhe + dchy
+[4基] cheockhey  ->  c + h + e + ockhey
+[4基] cheockhy  ->  c + h + e + ockhy
+[4基] cheocphey  ->  c + h + e + ocphey
+[4基] cheocphy  ->  c + h + e + ocphy
+[4基] cheocthedy  ->  c + h + e + octhedy
+[4基] cheoctheey  ->  c + h + e + octheey
+[4基] cheocthey  ->  c + h + e + octhey
+[4基] cheocthy  ->  c + h + e + octhy
+[4基] cheodalol  ->  c + h + eoda + lol
+[4基] cheodchy  ->  c + h + e + odchy
+[4基] cheodeeey  ->  c + h + e + odeeey
+[4基] cheodeey  ->  c + h + e + odeey
+[4基] cheodkedy  ->  c + h + e + odkedy
+[4基] cheodoiidaiin  ->  c + h + eodoii + daiin
+[4基] cheoees  ->  c + h + e + oees
+[4基] cheoekar  ->  c + h + e + oekar
+[4基] cheoekcy  ->  c + h + e + oekcy
+[4基] cheoekeey  ->  c + h + eoe + keey
+[4基] cheoekey  ->  c + h + e + oekey
+[4基] cheoepey  ->  c + h + e + oepey
+[4基] cheoepy  ->  c + h + e + oepy
+[4基] cheoiees  ->  c + h + eoi + ees
+[4基] cheokaidy  ->  c + h + e + okaidy
+[4基] cheokaiim  ->  c + h + e + okaiim
+[4基] cheokaiin  ->  c + h + e + okaiin
+[4基] cheokain  ->  c + h + e + okain
+[4基] cheokal  ->  c + h + e + okal
+[4基] cheokaly  ->  c + h + e + okaly
+[4基] cheokam  ->  c + h + e + okam
+[4基] cheokar  ->  c + h + e + okar
+[4基] cheokcheo  ->  c + h + e + okcheo
+[4基] cheokchet  ->  c + h + e + okchet
+[4基] cheokchey  ->  c + h + e + okchey
+[4基] cheokchy  ->  c + h + e + okchy
+[4基] cheokeain  ->  c + h + e + okeain
+[4基] cheokedy  ->  c + h + e + okedy
+[4基] cheokeeo  ->  c + h + e + okeeo
+[4基] cheokeeos  ->  c + h + e + okeeos
+[4基] cheokeey  ->  c + h + e + okeey
+[4基] cheokeo  ->  c + h + e + okeo
+[4基] cheokeodal  ->  c + h + e + okeodal
+[4基] cheokeol  ->  c + h + e + okeol
+[4基] cheokeos  ->  c + h + e + okeos
+[4基] cheokey  ->  c + h + e + okey
+[4基] cheokor  ->  c + h + e + okor
+[4基] cheokorchey  ->  c + h + eok + orchey
+[4基] cheoky  ->  c + h + e + oky
+[4基] cheolaiin  ->  c + h + e + olaiin
+[4基] cheolchal  ->  c + h + e + olchal
+[4基] cheolchcthy  ->  c + h + e + olchcthy
+[4基] cheolchdaiin  ->  c + h + e + olchdaiin
+[4基] cheolchdy  ->  c + h + e + olchdy
+[4基] cheolchey  ->  c + h + e + olchey
+[4基] cheoldain  ->  c + h + e + oldain
+[4基] cheoldy  ->  c + h + e + oldy
+[4基] cheolkain  ->  c + h + e + olkain
+[4基] cheolkary  ->  c + h + e + olkary
+[4基] cheolkedy  ->  c + h + e + olkedy
+[4基] cheolkeedy  ->  c + h + e + olkeedy
+[4基] cheolkeepchy  ->  c + he + olkee + pchy
+[4基] cheolkeey  ->  c + h + e + olkeey
+[4基] cheolky  ->  c + h + e + olky
+[4基] cheolor  ->  c + h + e + olor
+[4基] cheolpy  ->  c + h + e + olpy
+[4基] cheolshy  ->  c + h + e + olshy
+[4基] cheoltain  ->  c + h + e + oltain
+[4基] cheoltar  ->  c + h + e + oltar
+[4基] cheoltchedaiin  ->  c + h + e + oltchedaiin
+[4基] cheoltey  ->  c + h + e + oltey
+[4基] cheomam  ->  c + h + eom + am
+[4基] cheooky  ->  c + h + e + ooky
+[4基] cheopaiin  ->  c + h + e + opaiin
+[4基] cheopcheod  ->  c + h + e + opcheod
+[4基] cheopolteeedy  ->  c + h + eop + olteeedy
+[4基] cheopor  ->  c + h + e + opor
+[4基] cheopy  ->  c + h + e + opy
+[4基] cheoral  ->  c + h + e + oral
+[4基] cheoram  ->  c + h + e + oram
+[4基] cheorol  ->  c + h + e + orol
+[4基] cheoseesey  ->  c + h + e + oseesey
+[4基] cheotaiin  ->  c + h + e + otaiin
+[4基] cheotain  ->  c + h + e + otain
+[4基] cheotam  ->  c + h + e + otam
+[4基] cheotar  ->  c + h + e + otar
+[4基] cheotchar  ->  c + h + e + otchar
+[4基] cheotchey  ->  c + h + e + otchey
+[4基] cheotchy  ->  c + h + e + otchy
+[4基] cheotdaiin  ->  c + h + e + otdaiin
+[4基] cheoteeo  ->  c + h + e + oteeo
+[4基] cheoteeodal  ->  c + h + e + oteeodal
+[4基] cheoteey  ->  c + h + e + oteey
+[4基] cheotey  ->  c + h + e + otey
+[4基] cheotol  ->  c + h + e + otol
+[4基] cheoty  ->  c + h + e + oty
+[4基] cheotydy  ->  c + h + e + otydy
+[4基] chepakeo  ->  c + h + epa + keo
+[4基] chepcham  ->  c + h + e + pcham
+[4基] chepchar  ->  c + h + e + pchar
+[4基] chepchdy  ->  c + h + e + pchdy
+[4基] chepched  ->  c + h + e + pched
+[4基] chepchedy  ->  c + h + e + pchedy
+[4基] chepchees  ->  c + h + e + pchees
+[4基] chepchefy  ->  c + h + e + pchefy
+[4基] chepcheol  ->  c + h + e + pcheol
+[4基] chepchey  ->  c + h + e + pchey
+[4基] chepchx  ->  c + he + pch + x
+[4基] chepchy  ->  c + h + e + pchy
+[4基] chesckhy  ->  c + h + e + sckhy
+[4基] chesokeeoteody  ->  c + he + sokee + oteody
+[4基] chetalshy  ->  c + h + etal + shy
+[4基] chetchaiin  ->  c + h + e + tchaiin
+[4基] chetchdy  ->  c + h + e + tchdy
+[4基] chetchey  ->  c + h + e + tchey
+[4基] chetcho  ->  c + h + e + tcho
+[4基] chetchody  ->  c + h + e + tchody
+[4基] chetchy  ->  c + h + e + tchy
+[4基] chetechy  ->  c + h + e + techy
+[4基] chetedar  ->  c + h + e + tedar
+[4基] cheteedy  ->  c + h + e + teedy
+[4基] cheteeeosaiin  ->  c + h + e + teeeosaiin
+[4基] cheteey  ->  c + h + e + teey
+[4基] chetegy  ->  c + h + ete + gy
+[4基] chetesescher  ->  c + he + tese + scher
+[4基] chetolain  ->  c + h + et + olain
+[4基] chetshedy  ->  c + h + e + tshedy
+[4基] chetshy  ->  c + h + e + tshy
+[4基] cheykaiin  ->  c + h + e + ykaiin
+[4基] cheykain  ->  c + h + e + ykain
+[4基] cheykechey  ->  c + h + e + ykechey
+[4基] cheykedy  ->  c + h + e + ykedy
+[4基] cheykeeed  ->  c + h + e + ykeeed
+[4基] cheykeeoy  ->  c + h + e + ykeeoy
+[4基] cheykey  ->  c + h + e + ykey
+[4基] cheyky  ->  c + h + e + yky
+[4基] cheytal  ->  c + h + e + ytal
+[4基] cheytey  ->  c + h + e + ytey
+[4基] cheyty  ->  c + h + e + yty
+[4基] chfaikch  ->  c + h + fai + kch
+[2基] chfchol  ->  c + hfchol
+[4基] chforaiin  ->  c + h + f + oraiin
+[3基] chhy  ->  c + h + hy
+[4基] chkaidararal  ->  chkai + da + ra + ral
+[4基] chkalar  ->  c + h + ka + lar
+[4基] chkalchy  ->  c + h + ka + lchy
+[4基] chkarol  ->  c + h + ka + rol
+[2基] chkchdar  ->  c + hkchdar
+[2基] chkchean  ->  c + hkchean
+[4基] chkchedaram  ->  c + h + kcheda + ram
+[2基] chkcheean  ->  c + hkcheean
+[2基] chkchod  ->  c + hkchod
+[2基] chkchody  ->  c + hkchody
+[2基] chkchol  ->  c + hkchol
+[2基] chkchory  ->  c + hkchory
+[2基] chkchy  ->  c + hkchy
+[4基] chkchykoly  ->  c + h + kc + hykoly
+[2基] chkeaiin  ->  c + hkeaiin
+[2基] chkear  ->  c + hkear
+[2基] chkeeal  ->  c + hkeeal
+[2基] chkeedy  ->  c + hkeedy
+[2基] chkeeey  ->  c + hkeeey
+[2基] chkeeody  ->  c + hkeeody
+[2基] chkeey  ->  c + hkeey
+[2基] chkeody  ->  c + hkeody
+[2基] chkeor  ->  c + hkeor
+[2基] chkodal  ->  c + hkodal
+[4基] chkoldy  ->  c + h + k + oldy
+[4基] chkorchy  ->  c + h + k + orchy
+[2基] chkshy  ->  c + hkshy
+[3基] chlchd  ->  c + h + lchd
+[4基] chlchpsheey  ->  c + h + lc + hpsheey
+[2基] chocfhdy  ->  c + hocfhdy
+[4基] chocfhhg  ->  c + h + ocfh + hg
+[2基] chocfhor  ->  c + hocfhor
+[2基] chocfhy  ->  c + hocfhy
+[2基] chochar  ->  c + hochar
+[2基] chochor  ->  c + hochor
+[2基] chochs  ->  c + hochs
+[2基] chochy  ->  c + hochy
+[2基] chockhar  ->  c + hockhar
+[2基] chockhdy  ->  c + hockhdy
+[2基] chockhed  ->  c + hockhed
+[2基] chockhedy  ->  c + hockhedy
+[2基] chockhey  ->  c + hockhey
+[4基] chockhhor  ->  c + h + ockh + hor
+[4基] chockhhy  ->  c + h + ockh + hy
+[2基] chockhol  ->  c + hockhol
+[2基] chockhor  ->  c + hockhor
+[2基] chockhy  ->  c + hockhy
+[2基] chocpheod  ->  c + hocpheod
+[2基] chocphol  ->  c + hocphol
+[2基] chocphor  ->  c + hocphor
+[2基] chocphy  ->  c + hocphy
+[2基] chocthar  ->  c + hocthar
+[2基] chocthedy  ->  c + hocthedy
+[2基] choctheeey  ->  c + hoctheeey
+[2基] chocthey  ->  c + hocthey
+[2基] chocthody  ->  c + hocthody
+[2基] chocthy  ->  c + hocthy
+[4基] choctoy  ->  c + h + oc + toy
+[4基] chocty  ->  c + h + oc + ty
+[4基] chodaiindy  ->  c + h + odaiin + dy
+[4基] chodalar  ->  c + h + oda + lar
+[4基] chodalg  ->  c + h + oda + lg
+[2基] chodchy  ->  c + hodchy
+[2基] choddal  ->  c + hoddal
+[3基] chodoldy  ->  c + h + odoldy
+[3基] chodykchy  ->  c + h + odykchy
+[2基] choeee  ->  c + hoeee
+[2基] choeees  ->  c + hoeees
+[2基] choees  ->  c + hoees
+[2基] choeesy  ->  c + hoeesy
+[2基] choeey  ->  c + hoeey
+[2基] choefy  ->  c + hoefy
+[4基] choekchchy  ->  c + h + oe + kchchy
+[4基] choekchy  ->  c + h + oe + kchy
+[4基] choekeeos  ->  c + h + oe + keeos
+[4基] choekeey  ->  c + h + oe + keey
+[2基] choekey  ->  c + hoekey
+[2基] choeky  ->  c + hoeky
+[4基] choetchaldy  ->  c + hoe + tcha + ldy
+[4基] choetchy  ->  c + h + oe + tchy
+[4基] choeteedy  ->  c + h + oe + teedy
+[2基] choetey  ->  c + hoetey
+[2基] choety  ->  c + hoety
+[2基] chofaly  ->  c + hofaly
+[2基] chofary  ->  c + hofary
+[2基] chofchdy  ->  c + hofchdy
+[2基] chofchody  ->  c + hofchody
+[2基] chofchol  ->  c + hofchol
+[2基] chofchy  ->  c + hofchy
+[4基] chofochcphdy  ->  c + h + of + ochcphdy
+[2基] chofol  ->  c + hofol
+[2基] chofy  ->  c + hofy
+[2基] chofydy  ->  c + hofydy
+[4基] choikhedy  ->  c + h + oik + hedy
+[4基] choikhy  ->  c + h + oik + hy
+[4基] choiphy  ->  c + h + oip + hy
+[2基] chokaiin  ->  c + hokaiin
+[2基] chokain  ->  c + hokain
+[2基] chokair  ->  c + hokair
+[2基] chokal  ->  c + hokal
+[2基] chokaly  ->  c + hokaly
+[2基] chokam  ->  c + hokam
+[2基] chokan  ->  c + hokan
+[2基] chokar  ->  c + hokar
+[2基] chokaro  ->  c + hokaro
+[2基] chokchaiin  ->  c + hokchaiin
+[2基] chokchedy  ->  c + hokchedy
+[2基] chokcheey  ->  c + hokcheey
+[2基] chokcheo  ->  c + hokcheo
+[2基] chokchey  ->  c + hokchey
+[2基] chokcho  ->  c + hokcho
+[2基] chokchodaiin  ->  c + hokchodaiin
+[2基] chokchol  ->  c + hokchol
+[2基] chokchor  ->  c + hokchor
+[2基] chokchy  ->  c + hokchy
+[2基] chokcod  ->  c + hokcod
+[2基] chokeal  ->  c + hokeal
+[2基] choked  ->  c + hoked
+[2基] chokedair  ->  c + hokedair
+[2基] chokedy  ->  c + hokedy
+[2基] chokeear  ->  c + hokeear
+[2基] chokeed  ->  c + hokeed
+[2基] chokeedam  ->  c + hokeedam
+[2基] chokeedy  ->  c + hokeedy
+[2基] chokeeey  ->  c + hokeeey
+[2基] chokeeo  ->  c + hokeeo
+[2基] chokeeodol  ->  c + hokeeodol
+[2基] chokeeody  ->  c + hokeeody
+[4基] chokeeoky  ->  c + h + okee + oky
+[2基] chokeeor  ->  c + hokeeor
+[2基] chokees  ->  c + hokees
+[2基] chokeey  ->  c + hokeey
+[2基] chokeo  ->  c + hokeo
+[2基] chokeod  ->  c + hokeod
+[2基] chokeody  ->  c + hokeody
+[2基] chokeol  ->  c + hokeol
+[2基] chokeor  ->  c + hokeor
+[2基] chokeos  ->  c + hokeos
+[2基] chokesey  ->  c + hokesey
+[2基] chokey  ->  c + hokey
+[2基] choko  ->  c + hoko
+[2基] chokoaiin  ->  c + hokoaiin
+[2基] chokody  ->  c + hokody
+[2基] chokoiin  ->  c + hokoiin
+[4基] chokoishe  ->  c + h + okoi + she
+[4基] chokokor  ->  c + h + ok + okor
+[2基] chokol  ->  c + hokol
+[4基] chokoldy  ->  c + h + ok + oldy
+[4基] chokolg  ->  c + h + ok + olg
+[2基] chokor  ->  c + hokor
+[4基] chokoran  ->  c + h + ok + oran
+[2基] chokory  ->  c + hokory
+[2基] chokshchy  ->  c + hokshchy
+[2基] chokshor  ->  c + hokshor
+[2基] chokshy  ->  c + hokshy
+[2基] choksy  ->  c + hoksy
+[2基] choky  ->  c + hoky
+[2基] chokyt  ->  c + hokyt
+[2基] cholaiim  ->  c + holaiim
+[2基] cholaiin  ->  c + holaiin
+[2基] cholairy  ->  c + holairy
+[2基] cholal  ->  c + holal
+[2基] cholaly  ->  c + holaly
+[2基] cholam  ->  c + holam
+[2基] cholar  ->  c + holar
+[3基] cholchaiin  ->  c + h + olchaiin
+[3基] cholcham  ->  c + h + olcham
+[3基] cholchedy  ->  c + h + olchedy
+[3基] cholchey  ->  c + h + olchey
+[2基] choldaiin  ->  c + holdaiin
+[2基] choldal  ->  c + holdal
+[2基] choldar  ->  c + holdar
+[3基] choldchy  ->  c + h + oldchy
+[3基] choldshy  ->  c + h + oldshy
+[2基] choldy  ->  c + holdy
+[3基] cholfchy  ->  c + h + olfchy
+[3基] cholfor  ->  c + h + olfor
+[3基] cholfy  ->  c + h + olfy
+[3基] cholkaiin  ->  c + h + olkaiin
+[3基] cholkain  ->  c + h + olkain
+[3基] cholkal  ->  c + h + olkal
+[3基] cholkar  ->  c + h + olkar
+[3基] cholkched  ->  c + h + olkched
+[3基] cholkcheol  ->  c + h + olkcheol
+[3基] cholkchy  ->  c + h + olkchy
+[3基] cholkeedy  ->  c + h + olkeedy
+[3基] cholkeeedy  ->  c + h + olkeeedy
+[3基] cholkeeey  ->  c + h + olkeeey
+[3基] cholkeey  ->  c + h + olkeey
+[3基] cholkeod  ->  c + h + olkeod
+[3基] cholkshedy  ->  c + h + olkshedy
+[3基] cholky  ->  c + h + olky
+[2基] cholody  ->  c + holody
+[2基] cholol  ->  c + holol
+[3基] chololer  ->  c + h + ololer
+[2基] cholols  ->  c + holols
+[2基] chololy  ->  c + hololy
+[2基] cholor  ->  c + holor
+[2基] choloro  ->  c + holoro
+[3基] cholpchd  ->  c + h + olpchd
+[3基] cholraly  ->  c + h + olraly
+[3基] cholsho  ->  c + h + olsho
+[3基] choltaiin  ->  c + h + oltaiin
+[3基] choltal  ->  c + h + oltal
+[3基] choltaly  ->  c + h + oltaly
+[3基] choltam  ->  c + h + oltam
+[3基] choltar  ->  c + h + oltar
+[3基] cholty  ->  c + h + olty
+[4基] cholxy  ->  c + h + o + lxy
+[4基] choolkeey  ->  c + h + o + olkeey
+[2基] chopar  ->  c + hopar
+[2基] chopchal  ->  c + hopchal
+[2基] chopchdy  ->  c + hopchdy
+[2基] chopchedy  ->  c + hopchedy
+[2基] chopcheey  ->  c + hopcheey
+[4基] chopcheopchy  ->  c + h + opche + opchy
+[2基] chopchey  ->  c + hopchey
+[2基] chopcho  ->  c + hopcho
+[2基] chopchol  ->  c + hopchol
+[2基] chopchy  ->  c + hopchy
+[2基] chopdain  ->  c + hopdain
+[2基] chopo  ->  c + hopo
+[2基] chopol  ->  c + hopol
+[2基] chopy  ->  c + hopy
+[2基] choraiin  ->  c + horaiin
+[2基] chorain  ->  c + horain
+[2基] choraly  ->  c + horaly
+[2基] chorar  ->  c + horar
+[4基] chorcholsal  ->  c + h + orc + holsal
+[2基] chorchor  ->  c + horchor
+[2基] chorchy  ->  c + horchy
+[2基] chordom  ->  c + hordom
+[2基] chordy  ->  c + hordy
+[3基] chorochy  ->  c + h + orochy
+[2基] chorody  ->  c + horody
+[2基] choroiin  ->  c + horoiin
+[2基] chorol  ->  c + horol
+[2基] chorolk  ->  c + horolk
+[2基] chorom  ->  c + horom
+[2基] choror  ->  c + horor
+[2基] choross  ->  c + hoross
+[4基] chosaroshol  ->  c + h + osa + roshol
+[3基] choschy  ->  c + h + oschy
+[2基] choshy  ->  c + hoshy
+[2基] choshydy  ->  c + hoshydy
+[2基] chotaiin  ->  c + hotaiin
+[2基] chotain  ->  c + hotain
+[2基] chotair  ->  c + hotair
+[2基] chotais  ->  c + hotais
+[2基] chotal  ->  c + hotal
+[2基] chotals  ->  c + hotals
+[2基] chotam  ->  c + hotam
+[2基] chotar  ->  c + hotar
+[2基] chotchdy  ->  c + hotchdy
+[2基] chotchedy  ->  c + hotchedy
+[2基] chotcheey  ->  c + hotcheey
+[2基] chotcheol  ->  c + hotcheol
+[2基] chotchey  ->  c + hotchey
+[4基] chotcheytchol  ->  c + h + otche + ytchol
+[2基] chotcho  ->  c + hotcho
+[2基] chotchody  ->  c + hotchody
+[2基] chotchol  ->  c + hotchol
+[2基] chotchs  ->  c + hotchs
+[2基] chotchy  ->  c + hotchy
+[2基] chotear  ->  c + hotear
+[2基] chotedy  ->  c + hotedy
+[2基] choteedy  ->  c + hoteedy
+[2基] choteeen  ->  c + hoteeen
+[2基] choteeey  ->  c + hoteeey
+[2基] choteey  ->  c + hoteey
+[4基] chotehy  ->  c + h + ote + hy
+[2基] choteody  ->  c + hoteody
+[4基] choteoky  ->  c + h + ote + oky
+[2基] choteol  ->  c + hoteol
+[2基] choteoly  ->  c + hoteoly
+[2基] choteos  ->  c + hoteos
+[2基] chotey  ->  c + hotey
+[2基] choto  ->  c + hoto
+[2基] chotody  ->  c + hotody
+[2基] chotol  ->  c + hotol
+[2基] chotols  ->  c + hotols
+[2基] chotom  ->  c + hotom
+[2基] chotor  ->  c + hotor
+[2基] chots  ->  c + hots
+[2基] chotshe  ->  c + hotshe
+[2基] chotshol  ->  c + hotshol
+[2基] chotshy  ->  c + hotshy
+[2基] choty  ->  c + hoty
+[4基] chotyokchy  ->  c + h + ot + yokchy
+[2基] chotyr  ->  c + hotyr
+[3基] choypshedy  ->  c + h + oypshedy
+[4基] chpadar  ->  c + h + pa + dar
+[4基] chpaiikey  ->  c + h + paii + key
+[4基] chparam  ->  c + h + pa + ram
+[2基] chpchar  ->  c + hpchar
+[2基] chpchedy  ->  c + hpchedy
+[2基] chpcheod  ->  c + hpcheod
+[2基] chpcheor  ->  c + hpcheor
+[2基] chpcheos  ->  c + hpcheos
+[2基] chpchey  ->  c + hpchey
+[2基] chpchol  ->  c + hpchol
+[2基] chpchs  ->  c + hpchs
+[2基] chpchshdy  ->  c + hpchshdy
+[2基] chpchy  ->  c + hpchy
+[2基] chpeeeey  ->  c + hpeeeey
+[4基] chpkcheos  ->  c + h + p + kcheos
+[2基] chpsheedy  ->  c + hpsheedy
+[2基] chrky  ->  c + hrky
+[4基] chsamoky  ->  c + h + sam + oky
+[3基] chschsa  ->  c + h + schsa
+[3基] chsea  ->  c + h + sea
+[3基] chseeor  ->  c + h + seeor
+[3基] chshoty  ->  c + h + shoty
+[3基] chskar  ->  c + h + skar
+[3基] chsky  ->  c + h + sky
+[4基] chtaem  ->  c + h + ta + em
+[4基] chtaldy  ->  c + h + ta + ldy
+[2基] chtchey  ->  c + htchey
+[2基] chtchol  ->  c + htchol
+[2基] chtchor  ->  c + htchor
+[2基] chtchy  ->  c + htchy
+[2基] chtchyf  ->  c + htchyf
+[4基] chtedytar  ->  c + h + te + dytar
+[2基] chteeor  ->  c + hteeor
+[2基] chteey  ->  c + hteey
+[2基] chteody  ->  c + hteody
+[4基] chteokeeiin  ->  c + h + te + okeeiin
+[2基] chteor  ->  c + hteor
+[2基] chtodaiin  ->  c + htodaiin
+[4基] chtoithy  ->  c + h + toit + hy
+[4基] chtorol  ->  c + h + t + orol
+[2基] chtshar  ->  c + htshar
+[2基] chtshy  ->  c + htshy
+[3基] chxar  ->  c + h + xar
+[2基] chykaiin  ->  c + hykaiin
+[4基] chykald  ->  c + h + yka + ld
+[2基] chykar  ->  c + hykar
+[2基] chykchr  ->  c + hykchr
+[2基] chykchy  ->  c + hykchy
+[2基] chykeedy  ->  c + hykeedy
+[2基] chykeor  ->  c + hykeor
+[2基] chykey  ->  c + hykey
+[2基] chyky  ->  c + hyky
+[4基] chypaldy  ->  c + h + ypa + ldy
+[2基] chypcham  ->  c + hypcham
+[2基] chypchey  ->  c + hypchey
+[2基] chypchy  ->  c + hypchy
+[3基] chyqo  ->  c + h + yqo
+[4基] chytaroiin  ->  c + h + yta + roiin
+[2基] chytchy  ->  c + hytchy
+[2基] chyteey  ->  c + hyteey
+[2基] chyteody  ->  c + hyteody
+[2基] chyty  ->  c + hyty
+[2基] ckaiin  ->  c + kaiin
+[2基] ckcheey  ->  c + kcheey
+[2基] ckcho  ->  c + kcho
+[2基] ckchol  ->  c + kchol
+[2基] ckeor  ->  c + keor
+[2基] ckey  ->  c + key
+[4基] ckhcfhhy  ->  c + k + hcfh + hy
+[4基] ckheckhy  ->  c + k + he + ckhy
+[4基] ckheokey  ->  c + k + he + okey
+[4基] ckhhey  ->  c + k + h + hey
+[4基] ckhhy  ->  c + k + h + hy
+[3基] ckhochy  ->  c + k + hochy
+[3基] ckhocthy  ->  c + k + hocthy
+[3基] ckholdy  ->  c + k + holdy
+[2基] ckol  ->  c + kol
+[3基] ckooaiin  ->  c + k + ooaiin
+[2基] ckshy  ->  c + kshy
+[2基] cky  ->  c + ky
+[2基] coain  ->  c + oain
+[2基] coeky  ->  c + oeky
+[2基] cpar  ->  c + par
+[2基] cpchety  ->  c + pchety
+[2基] cpchy  ->  c + pchy
+[4基] cphaldy  ->  c + p + ha + ldy
+[4基] cpharom  ->  c + p + ha + rom
+[4基] cphdaithy  ->  c + p + hdait + hy
+[4基] cpheckhy  ->  c + p + he + ckhy
+[4基] cpheocthy  ->  c + p + he + octhy
+[4基] cphheg  ->  cp + h + he + g
+[4基] cphhofy  ->  c + p + h + hofy
+[4基] cphhy  ->  c + p + h + hy
+[3基] cphochy  ->  c + p + hochy
+[3基] cphocthy  ->  c + p + hocthy
+[4基] cphodales  ->  c + p + hoda + les
+[3基] cphoeedol  ->  c + p + hoeedol
+[4基] cphoithy  ->  c + p + hoit + hy
+[3基] cphokchol  ->  c + p + hokchol
+[3基] cpholdy  ->  c + p + holdy
+[4基] cpholkaiin  ->  c + p + h + olkaiin
+[4基] cpholrory  ->  c + p + h + olrory
+[3基] cphorods  ->  c + p + horods
+[2基] cpy  ->  c + py
+[2基] cseam  ->  c + seam
+[4基] cseckhdy  ->  c + s + e + ckhdy
+[2基] csedar  ->  c + sedar
+[2基] csedly  ->  c + sedly
+[2基] csedy  ->  c + sedy
+[2基] cseedy  ->  c + seedy
+[2基] cseeky  ->  c + seeky
+[2基] cseeod  ->  c + seeod
+[2基] csees  ->  c + sees
+[2基] cseey  ->  c + seey
+[2基] cseo  ->  c + seo
+[2基] cseol  ->  c + seol
+[4基] cseteeey  ->  c + s + e + teeey
+[2基] cshe  ->  c + she
+[2基] cskesol  ->  c + skesol
+[2基] csoeky  ->  c + soeky
+[2基] csol  ->  c + sol
+[2基] ctar  ->  c + tar
+[2基] ctchey  ->  c + tchey
+[2基] ctchy  ->  c + tchy
+[2基] ctechy  ->  c + techy
+[2基] ctey  ->  c + tey
+[4基] cthachcthy  ->  c + t + ha + chcthy
+[4基] cthaichar  ->  c + t + hai + char
+[4基] cthaildy  ->  c + t + hai + ldy
+[4基] ctharad  ->  c + t + ha + rad
+[4基] cthckeom  ->  c + t + hc + keom
+[3基] cthcthey  ->  c + t + hcthey
+[4基] cthdaoto  ->  c + t + hda + oto
+[4基] cthdeecthy  ->  c + t + hdee + cthy
+[4基] ctheepchy  ->  c + t + hee + pchy
+[4基] ctheockhosho  ->  c + t + heock + hosho
+[4基] ctheotol  ->  c + t + he + otol
+[4基] cthhy  ->  c + t + h + hy
+[3基] cthochy  ->  c + t + hochy
+[3基] cthodoaly  ->  c + t + hodoaly
+[3基] cthoepain  ->  c + t + hoepain
+[3基] cthog  ->  c + t + hog
+[4基] ctholcthy  ->  c + t + h + olcthy
+[3基] cthold  ->  c + t + hold
+[3基] ctholdar  ->  c + t + holdar
+[4基] ctholdg  ->  c + t + h + oldg
+[3基] ctholdy  ->  c + t + holdy
+[3基] cthoral  ->  c + t + horal
+[3基] cthorchy  ->  c + t + horchy
+[3基] cthoshol  ->  c + t + hoshol
+[4基] cthscthain  ->  c + t + h + scthain
+[2基] cto  ->  c + to
+[2基] ctody  ->  c + tody
+[2基] ctoiin  ->  c + toiin
+[2基] ctol  ->  c + tol
+[2基] ctos  ->  c + tos
+[2基] cty  ->  c + ty
+[3基] daar  ->  d + a + ar
+[3基] dacheedy  ->  d + a + cheedy
+[3基] dachy  ->  d + a + chy
+[3基] dackhy  ->  d + a + ckhy
+[4基] dacsary  ->  d + a + c + sary
+[3基] dadam  ->  d + a + dam
+[3基] daein  ->  d + a + ein
+[3基] dag  ->  d + a + g
+[4基] daichy  ->  d + a + i + chy
+[4基] daicthy  ->  d + a + i + cthy
+[4基] daiial  ->  d + a + ii + al
+[4基] daiidal  ->  d + a + ii + dal
+[4基] daiiine  ->  d + a + iiin + e
+[4基] daiiiolkaiin  ->  d + a + iii + olkaiin
+[4基] daiiirchy  ->  d + a + iii + rchy
+[4基] daiiithy  ->  d + a + iiit + hy
+[4基] daiild  ->  d + a + ii + ld
+[4基] daiildy  ->  d + a + ii + ldy
+[4基] daiindy  ->  d + a + iin + dy
+[4基] daiinls  ->  d + a + iin + ls
+[4基] daiinol  ->  d + a + iin + ol
+[4基] daiioam  ->  d + a + ii + oam
+[4基] daiiody  ->  d + a + ii + ody
+[4基] daiiol  ->  d + a + ii + ol
+[4基] daiiral  ->  d + a + ii + ral
+[4基] daiirol  ->  d + a + ii + rol
+[4基] daiity  ->  d + a + ii + ty
+[4基] daikam  ->  d + a + i + kam
+[4基] daikeody  ->  d + a + i + keody
+[4基] daikhyky  ->  d + a + ik + hyky
+[4基] daildain  ->  d + a + i + ldain
+[4基] daimd  ->  d + a + im + d
+[4基] daimdy  ->  d + a + im + dy
+[4基] daimm  ->  d + a + im + m
+[4基] daimom  ->  d + a + im + om
+[4基] dainaldy  ->  d + ain + a + ldy
+[4基] daind  ->  d + a + in + d
+[4基] daindl  ->  d + a + in + dl
+[4基] daing  ->  d + a + in + g
+[4基] dainkey  ->  d + a + in + key
+[4基] dainod  ->  d + a + in + od
+[4基] dainor  ->  d + a + in + or
+[4基] dairair  ->  d + a + i + rair
+[4基] dairal  ->  d + a + i + ral
+[4基] dairam  ->  d + a + i + ram
+[4基] dairar  ->  d + a + i + rar
+[4基] dairchey  ->  d + a + i + rchey
+[4基] daird  ->  d + a + i + rd
+[4基] dairin  ->  d + a + i + rin
+[4基] dairiy  ->  d + a + i + riy
+[4基] dairkal  ->  d + a + i + rkal
+[4基] dairodg  ->  d + a + i + rodg
+[4基] dairody  ->  d + a + i + rody
+[4基] dairol  ->  d + a + i + rol
+[4基] dairom  ->  d + a + i + rom
+[4基] dairydy  ->  d + a + i + rydy
+[4基] daisam  ->  d + a + i + sam
+[4基] daisin  ->  d + a + i + sin
+[4基] daisn  ->  d + a + i + sn
+[4基] daisoldy  ->  d + a + i + soldy
+[3基] dakan  ->  d + a + kan
+[3基] dakar  ->  d + a + kar
+[3基] dakeey  ->  d + a + keey
+[4基] dakocth  ->  d + a + k + octh
+[3基] daky  ->  d + a + ky
+[3基] dala  ->  d + a + la
+[3基] dalaiin  ->  d + a + laiin
+[3基] dalain  ->  d + a + lain
+[3基] dalal  ->  d + a + lal
+[4基] dalaldam  ->  d + a + la + ldam
+[4基] dalalody  ->  d + a + la + lody
+[3基] dalaly  ->  d + a + laly
+[3基] dalam  ->  d + a + lam
+[3基] dalar  ->  d + a + lar
+[3基] dalary  ->  d + a + lary
+[3基] dalas  ->  d + a + las
+[3基] dalchckhy  ->  d + a + lchckhy
+[3基] dalchd  ->  d + a + lchd
+[3基] dalchdy  ->  d + a + lchdy
+[3基] dalched  ->  d + a + lched
+[3基] dalchedy  ->  d + a + lchedy
+[3基] dalcheeeky  ->  d + a + lcheeeky
+[3基] dalches  ->  d + a + lches
+[3基] dalchor  ->  d + a + lchor
+[3基] dalchy  ->  d + a + lchy
+[3基] dald  ->  d + a + ld
+[3基] daldaiin  ->  d + a + ldaiin
+[3基] daldal  ->  d + a + ldal
+[4基] daldalol  ->  d + a + lda + lol
+[3基] daldar  ->  d + a + ldar
+[3基] daldeam  ->  d + a + ldeam
+[3基] daldy  ->  d + a + ldy
+[3基] daleesd  ->  d + a + leesd
+[3基] dalfchy  ->  d + a + lfchy
+[3基] dalg  ->  d + a + lg
+[3基] dalkain  ->  d + a + lkain
+[3基] dalkal  ->  d + a + lkal
+[4基] dalkalytam  ->  d + a + lka + lytam
+[3基] dalkar  ->  d + a + lkar
+[3基] dalkedy  ->  d + a + lkedy
+[3基] dalkeeey  ->  d + a + lkeeey
+[3基] dalkshdy  ->  d + a + lkshdy
+[3基] dalky  ->  d + a + lky
+[3基] dalmy  ->  d + a + lmy
+[4基] dalocthhy  ->  d + a + locth + hy
+[3基] dalody  ->  d + a + lody
+[4基] dalohey  ->  d + a + l + ohey
+[3基] daloky  ->  d + a + loky
+[3基] dalol  ->  d + a + lol
+[3基] dalols  ->  d + a + lols
+[3基] dalom  ->  d + a + lom
+[3基] dalor  ->  d + a + lor
+[3基] dalorain  ->  d + a + lorain
+[3基] dalory  ->  d + a + lory
+[4基] dalshal  ->  d + a + l + shal
+[4基] dalshdy  ->  d + a + l + shdy
+[4基] dalshedo  ->  d + a + l + shedo
+[4基] dalshedy  ->  d + a + l + shedy
+[4基] dalshey  ->  d + a + l + shey
+[4基] dalshy  ->  d + a + l + shy
+[3基] daltedy  ->  d + a + ltedy
+[4基] dalteoshy  ->  d + a + lteo + shy
+[3基] dalychs  ->  d + a + lychs
+[3基] dalydal  ->  d + a + lydal
+[4基] damamm  ->  d + am + am + m
+[4基] damom  ->  d + a + m + om
+[3基] daoly  ->  d + a + oly
+[3基] daor  ->  d + a + or
+[3基] dara  ->  d + a + ra
+[3基] daraiiin  ->  d + a + raiiin
+[3基] daraiin  ->  d + a + raiin
+[4基] daraiinm  ->  d + a + raiin + m
+[4基] darailchedy  ->  d + a + rai + lchedy
+[3基] darair  ->  d + a + rair
+[3基] daral  ->  d + a + ral
+[4基] darala  ->  d + a + ra + la
+[3基] darall  ->  d + a + rall
+[4基] daraloikhy  ->  da + ra + loik + hy
+[3基] daraly  ->  d + a + raly
+[3基] daram  ->  d + a + ram
+[4基] daramdal  ->  d + a + ram + dal
+[3基] darams  ->  d + a + rams
+[3基] darar  ->  d + a + rar
+[4基] dararal  ->  d + a + ra + ral
+[4基] dararda  ->  d + a + ra + rda
+[3基] darchdar  ->  d + a + rchdar
+[3基] darchedy  ->  d + a + rchedy
+[3基] darcheedal  ->  d + a + rcheedal
+[3基] darcheos  ->  d + a + rcheos
+[3基] darchey  ->  d + a + rchey
+[3基] darchor  ->  d + a + rchor
+[3基] darchy  ->  d + a + rchy
+[3基] dardam  ->  d + a + rdam
+[3基] dardsh  ->  d + a + rdsh
+[3基] dardy  ->  d + a + rdy
+[3基] dardyr  ->  d + a + rdyr
+[3基] dareky  ->  d + a + reky
+[3基] dariin  ->  d + a + riin
+[3基] dario  ->  d + a + rio
+[3基] daroal  ->  d + a + roal
+[3基] darod  ->  d + a + rod
+[3基] darodsf  ->  d + a + rodsf
+[3基] darody  ->  d + a + rody
+[3基] darol  ->  d + a + rol
+[3基] darolaly  ->  d + a + rolaly
+[3基] darolm  ->  d + a + rolm
+[3基] darolsy  ->  d + a + rolsy
+[3基] darom  ->  d + a + rom
+[3基] daror  ->  d + a + ror
+[3基] darordaiin  ->  d + a + rordaiin
+[3基] darory  ->  d + a + rory
+[4基] darshey  ->  d + a + r + shey
+[4基] darshody  ->  d + a + r + shody
+[3基] daryry  ->  d + a + ryry
+[3基] dasady  ->  d + a + sady
+[3基] dasaiin  ->  d + a + saiin
+[3基] dasain  ->  d + a + sain
+[3基] dasam  ->  d + a + sam
+[3基] dasar  ->  d + a + sar
+[3基] dasd  ->  d + a + sd
+[3基] dateey  ->  d + a + teey
+[3基] dayty  ->  d + a + yty
+[4基] dchairam  ->  d + c + hai + ram
+[4基] dchdaldy  ->  d + c + hda + ldy
+[4基] dcheckhey  ->  d + c + he + ckhey
+[4基] dcheeckhos  ->  d + c + hee + ckhos
+[4基] dcheecthey  ->  d + c + hee + cthey
+[4基] dcheeokeody  ->  d + c + hee + okeody
+[4基] dchefoey  ->  d + c + he + foey
+[4基] dchekcsdy  ->  d + c + hekc + sdy
+[4基] dcheoky  ->  d + c + he + oky
+[4基] dcheoldy  ->  d + c + he + oldy
+[4基] dcheoteos  ->  d + c + he + oteos
+[4基] dcheoty  ->  d + c + he + oty
+[4基] dcheytain  ->  d + c + he + ytain
+[3基] dchochar  ->  d + c + hochar
+[3基] dchodees  ->  d + c + hodees
+[3基] dchog  ->  d + c + hog
+[3基] dchokchr  ->  d + c + hokchr
+[3基] dchokchy  ->  d + c + hokchy
+[3基] dchokey  ->  d + c + hokey
+[3基] dchokol  ->  d + c + hokol
+[3基] dcholal  ->  d + c + holal
+[3基] dcholdy  ->  d + c + holdy
+[3基] dchorol  ->  d + c + horol
+[3基] dchoty  ->  d + c + hoty
+[4基] dchschy  ->  d + c + h + schy
+[4基] dchsykchy  ->  d + c + h + sykchy
+[3基] dchykchy  ->  d + c + hykchy
+[3基] dchykey  ->  d + c + hykey
+[3基] dchyky  ->  d + c + hyky
+[3基] dchytchy  ->  d + c + hytchy
+[3基] dcky  ->  d + c + ky
+[3基] dcsedy  ->  d + c + sedy
+[3基] dcsesor  ->  d + c + sesor
+[4基] dechoekol  ->  d + e + c + hoekol
+[3基] decthdy  ->  d + e + cthdy
+[3基] dedloy  ->  d + e + dloy
+[4基] deeamshol  ->  d + e + eam + shol
+[3基] deeeese  ->  d + e + eeese
+[4基] deeocthey  ->  d + e + e + octhey
+[4基] deeschdy  ->  d + e + e + schdy
+[3基] diiiin  ->  d + i + iiin
+[4基] dkarar  ->  d + k + a + rar
+[4基] dkeeeg  ->  d + k + eee + g
+[3基] dkochy  ->  d + k + ochy
+[2基] dlchd  ->  d + lchd
+[2基] dlchy  ->  d + lchy
+[2基] dlkal  ->  d + lkal
+[4基] dlocta  ->  d + l + oc + ta
+[3基] dlshedy  ->  d + l + shedy
+[2基] dlssho  ->  d + lssho
+[4基] doeeeesm  ->  d + o + e + eeesm
+[4基] doefshey  ->  d + o + e + fshey
+[4基] doeoeas  ->  d + o + e + oeas
+[4基] doiiram  ->  d + o + ii + ram
+[4基] doiisaly  ->  d + o + ii + saly
+[4基] doikhy  ->  d + o + ik + hy
+[4基] doiros  ->  d + o + i + ros
+[4基] doithy  ->  d + o + it + hy
+[4基] dolaram  ->  d + o + la + ram
+[2基] dolchds  ->  d + olchds
+[2基] dolchedy  ->  d + olchedy
+[2基] dolcheedy  ->  d + olcheedy
+[2基] dolcheey  ->  d + olcheey
+[2基] dolchey  ->  d + olchey
+[2基] dolchl  ->  d + olchl
+[2基] dolchoy  ->  d + olchoy
+[4基] dolchsyckheol  ->  d + o + lch + syckheol
+[2基] doleed  ->  d + oleed
+[2基] doleeey  ->  d + oleeey
+[2基] doleodaiin  ->  d + oleodaiin
+[2基] dolfchedy  ->  d + olfchedy
+[2基] dolkain  ->  d + olkain
+[2基] dolkchy  ->  d + olkchy
+[2基] dolkedy  ->  d + olkedy
+[2基] dolkeedy  ->  d + olkeedy
+[2基] dolshed  ->  d + olshed
+[2基] dolshedy  ->  d + olshedy
+[2基] dolshy  ->  d + olshy
+[2基] doltshdy  ->  d + oltshdy
+[4基] dralas  ->  d + r + a + las
+[2基] dscheey  ->  d + scheey
+[2基] dsechey  ->  d + sechey
+[2基] dshcheal  ->  d + shcheal
+[4基] dsheckhy  ->  d + s + he + ckhy
+[4基] dsheeoteey  ->  d + s + hee + oteey
+[4基] dsheog  ->  d + s + he + og
+[2基] dsholdy  ->  d + sholdy
+[2基] dsholyd  ->  d + sholyd
+[2基] dxar  ->  d + xar
+[4基] dycheckhy  ->  d + y + che + ckhy
+[4基] dychokchy  ->  d + y + c + hokchy
+[4基] dydariin  ->  d + y + da + riin
+[2基] dylches  ->  d + ylches
+[2基] dylchsody  ->  d + ylchsody
+[2基] dyotyds  ->  d + yotyds
+[3基] ealam  ->  e + a + lam
+[4基] echkolal  ->  e + c + hk + olal
+[2基] echty  ->  e + chty
+[3基] ecky  ->  e + c + ky
+[3基] eeckhy  ->  e + e + ckhy
+[4基] eeecfhy  ->  e + e + e + cfhy
+[4基] eeedeed  ->  e + e + e + deed
+[4基] eeeokor  ->  e + e + e + okor
+[4基] eeeoloy  ->  e + e + e + oloy
+[3基] eeoeety  ->  e + e + oeety
+[3基] eeoseeos  ->  e + e + oseeos
+[3基] eetees  ->  e + e + tees
+[4基] efaloir  ->  e + f + a + loir
+[2基] efchedy  ->  e + fchedy
+[2基] ekchey  ->  e + kchey
+[2基] ekchody  ->  e + kchody
+[2基] ekeey  ->  e + keey
+[4基] ekeolol  ->  e + k + e + olol
+[3基] ekokeey  ->  e + k + okeey
+[2基] ekshy  ->  e + kshy
+[2基] eocthy  ->  e + octhy
+[2基] eokeeor  ->  e + okeeor
+[2基] eoky  ->  e + oky
+[4基] eoporchy  ->  e + o + p + orchy
+[2基] eotar  ->  e + otar
+[4基] epairody  ->  e + p + ai + rody
+[2基] epchey  ->  e + pchey
+[2基] epchy  ->  e + pchy
+[2基] ereoly  ->  e + reoly
+[2基] esechor  ->  e + sechor
+[2基] etchal  ->  e + tchal
+[2基] etcheody  ->  e + tcheody
+[2基] eteeda  ->  e + teeda
+[2基] eteedy  ->  e + teedy
+[2基] eteeys  ->  e + teeys
+[2基] eteodys  ->  e + teodys
+[2基] eteor  ->  e + teor
+[3基] etocho  ->  e + t + ocho
+[2基] etodaiin  ->  e + todaiin
+[4基] etodaithey  ->  e + t + odait + hey
+[3基] etolctheol  ->  e + t + olctheol
+[3基] etoteear  ->  e + t + oteear
+[3基] etsees  ->  e + t + sees
+[3基] fachys  ->  f + a + chys
+[4基] faiiral  ->  f + a + ii + ral
+[4基] famom  ->  f + a + m + om
+[3基] fardam  ->  f + a + rdam
+[4基] farsheey  ->  f + a + r + sheey
+[4基] fchecfhy  ->  f + c + he + cfhy
+[4基] fchedypaiin  ->  f + c + he + dypaiin
+[4基] fcheokair  ->  f + c + he + okair
+[4基] fcheolain  ->  f + c + he + olain
+[3基] fchochor  ->  f + c + hochor
+[3基] fchocthar  ->  f + c + hocthar
+[3基] fchoctheody  ->  f + c + hoctheody
+[3基] fchodees  ->  f + c + hodees
+[4基] fchodycheol  ->  f + c + h + odycheol
+[3基] fchokshy  ->  f + c + hokshy
+[3基] fchoky  ->  f + c + hoky
+[3基] fcholdy  ->  f + c + holdy
+[2基] fdeechdy  ->  f + deechdy
+[2基] fdykain  ->  f + dykain
+[2基] fochof  ->  f + ochof
+[2基] fochor  ->  f + ochor
+[2基] folaiin  ->  f + olaiin
+[4基] folcfhhy  ->  f + o + lcfh + hy
+[2基] folchear  ->  f + olchear
+[2基] folchey  ->  f + olchey
+[2基] folchol  ->  f + olchol
+[2基] folchor  ->  f + olchor
+[2基] fold  ->  f + old
+[2基] foldaiin  ->  f + oldaiin
+[2基] folor  ->  f + olor
+[4基] folorarom  ->  f + o + lora + rom
+[2基] folshody  ->  f + olshody
+[2基] forar  ->  f + orar
+[2基] fshodchy  ->  f + shodchy
+[2基] fsholom  ->  f + sholom
+[3基] fyshey  ->  f + y + shey
+[2基] geedy  ->  g + eedy
+[2基] geeem  ->  g + eeem
+[2基] ihar  ->  i + har
+[4基] iiincheom  ->  i + i + in + cheom
+[3基] iirchal  ->  i + i + rchal
+[3基] ikheeos  ->  i + k + heeos
+[3基] ikhey  ->  i + k + hey
+[3基] iphy  ->  i + p + hy
+[3基] ithey  ->  i + t + hey
+[4基] ithhy  ->  i + t + h + hy
+[3基] ithor  ->  i + t + hor
+[3基] ithy  ->  i + t + hy
+[3基] kaedy  ->  k + a + edy
+[4基] kaiech  ->  k + a + i + ech
+[4基] kaiiidal  ->  k + a + iii + dal
+[4基] kaiishdy  ->  k + a + ii + shdy
+[4基] kairam  ->  k + a + i + ram
+[4基] kaisar  ->  k + a + i + sar
+[4基] kaishd  ->  k + a + i + shd
+[4基] kaithy  ->  k + a + it + hy
+[3基] kalchdy  ->  k + a + lchdy
+[3基] kalchedy  ->  k + a + lchedy
+[3基] kaldaiin  ->  k + a + ldaiin
+[3基] kaldaim  ->  k + a + ldaim
+[3基] kaldy  ->  k + a + ldy
+[3基] kalkal  ->  k + a + lkal
+[3基] kalos  ->  k + a + los
+[4基] kalshey  ->  k + a + l + shey
+[4基] kamdam  ->  k + a + m + dam
+[3基] kaolkar  ->  k + a + olkar
+[3基] kara  ->  k + a + ra
+[3基] karaim  ->  k + a + raim
+[3基] karainy  ->  k + a + rainy
+[3基] karal  ->  k + a + ral
+[3基] karar  ->  k + a + rar
+[3基] kararo  ->  k + a + raro
+[3基] karchy  ->  k + a + rchy
+[3基] kard  ->  k + a + rd
+[3基] kardy  ->  k + a + rdy
+[3基] karody  ->  k + a + rody
+[3基] kasol  ->  k + a + sol
+[4基] kccky  ->  k + c + c + ky
+[4基] kchaldy  ->  k + c + ha + ldy
+[4基] kchcsey  ->  k + c + hc + sey
+[4基] kchdaldy  ->  k + c + hda + ldy
+[3基] kchdpy  ->  k + c + hdpy
+[4基] kcheedchdy  ->  k + c + hee + dchdy
+[3基] kchochaiin  ->  k + c + hochaiin
+[3基] kchochy  ->  k + c + hochy
+[3基] kchokchy  ->  k + c + hokchy
+[4基] kcholchdar  ->  k + c + h + olchdar
+[3基] kchorchor  ->  k + c + horchor
+[3基] kchoror  ->  k + c + horor
+[3基] kchoty  ->  k + c + hoty
+[2基] kdchody  ->  k + dchody
+[4基] kecheokeo  ->  k + e + che + okeo
+[4基] kechodshey  ->  k + e + c + hodshey
+[4基] kedaleey  ->  k + e + da + leey
+[4基] kedarxy  ->  k + e + da + rxy
+[4基] keedeedy  ->  k + e + e + deedy
+[4基] keeokechy  ->  k + e + e + okechy
+[4基] keeolshey  ->  k + e + e + olshey
+[4基] keerodal  ->  k + e + e + rodal
+[4基] keeyfar  ->  k + e + e + yfar
+[3基] keocthedy  ->  k + e + octhedy
+[3基] keocthy  ->  k + e + octhy
+[3基] keodky  ->  k + e + odky
+[3基] keoky  ->  k + e + oky
+[3基] keolchey  ->  k + e + olchey
+[3基] keolor  ->  k + e + olor
+[3基] kesoar  ->  k + e + soar
+[4基] koaiphhy  ->  k + oaip + h + hy
+[4基] kochardy  ->  k + o + cha + rdy
+[2基] kocheor  ->  k + ocheor
+[2基] kochky  ->  k + ochky
+[2基] kochor  ->  k + ochor
+[2基] kockhas  ->  k + ockhas
+[4基] kodalchy  ->  k + o + da + lchy
+[2基] kodeey  ->  k + odeey
+[2基] kodshey  ->  k + odshey
+[2基] kodshol  ->  k + odshol
+[4基] koeeorain  ->  k + o + ee + orain
+[2基] koees  ->  k + oees
+[2基] kokaiin  ->  k + okaiin
+[2基] koky  ->  k + oky
+[2基] kolchdy  ->  k + olchdy
+[2基] kolchedy  ->  k + olchedy
+[2基] kolcheey  ->  k + olcheey
+[2基] kolches  ->  k + olches
+[2基] kolchey  ->  k + olchey
+[4基] koldaky  ->  k + o + lda + ky
+[2基] koldal  ->  k + oldal
+[4基] koldarod  ->  k + o + lda + rod
+[2基] koldy  ->  k + oldy
+[4基] koleearol  ->  k + o + leea + rol
+[2基] kolfchdy  ->  k + olfchdy
+[2基] kolkar  ->  k + olkar
+[2基] kolkedy  ->  k + olkedy
+[2基] kolky  ->  k + olky
+[2基] kolor  ->  k + olor
+[2基] kolotam  ->  k + olotam
+[2基] kolpy  ->  k + olpy
+[3基] kolschees  ->  k + o + lschees
+[2基] kolshd  ->  k + olshd
+[2基] kolshes  ->  k + olshes
+[2基] kolsho  ->  k + olsho
+[4基] koltoldy  ->  k + o + lt + oldy
+[2基] kolyky  ->  k + olyky
+[4基] komdy  ->  k + o + m + dy
+[2基] koraiin  ->  k + oraiin
+[2基] korain  ->  k + orain
+[4基] korare  ->  k + o + ra + re
+[2基] korary  ->  k + orary
+[2基] korchy  ->  k + orchy
+[2基] koroiin  ->  k + oroiin
+[2基] korol  ->  k + orol
+[2基] korols  ->  k + orols
+[3基] koshet  ->  k + o + shet
+[3基] koshey  ->  k + o + shey
+[3基] kosholda  ->  k + o + sholda
+[2基] kotaly  ->  k + otaly
+[2基] kotchody  ->  k + otchody
+[2基] kotchy  ->  k + otchy
+[2基] kotody  ->  k + otody
+[2基] kschdy  ->  k + schdy
+[4基] kshardy  ->  k + s + ha + rdy
+[4基] ksholochey  ->  k + s + h + olochey
+[2基] kshoraiin  ->  k + shoraiin
+[2基] kshotol  ->  k + shotol
+[2基] kydeedy  ->  k + ydeedy
+[2基] kyty  ->  k + yty
+[3基] laldan  ->  l + a + ldan
+[3基] larorol  ->  l + a + rorol
+[4基] lcharar  ->  l + c + ha + rar
+[4基] lchealaiin  ->  l + c + hea + laiin
+[4基] lchealaim  ->  l + c + hea + laim
+[4基] lcheckhedy  ->  l + c + he + ckhedy
+[4基] lcheckhey  ->  l + c + he + ckhey
+[4基] lcheckhy  ->  l + c + he + ckhy
+[4基] lcheg  ->  l + c + he + g
+[4基] lcheoekam  ->  l + c + he + oekam
+[4基] lcheolshedy  ->  l + c + he + olshedy
+[4基] lcheylchy  ->  l + c + he + ylchy
+[4基] lcholkaiin  ->  l + c + h + olkaiin
+[3基] lchpchdy  ->  l + c + hpchdy
+[4基] ldalor  ->  l + d + a + lor
+[4基] liiram  ->  l + i + i + ram
+[4基] lkaldy  ->  l + k + a + ldy
+[4基] lkalol  ->  l + k + a + lol
+[4基] lkarchees  ->  l + k + a + rchees
+[4基] lkarshar  ->  l + k + ar + shar
+[4基] lkedeed  ->  l + k + e + deed
+[4基] lkedlkey  ->  l + k + ed + lkey
+[4基] lkedshedy  ->  l + k + e + dshedy
+[4基] lkeoldy  ->  l + k + e + oldy
+[4基] lkeopol  ->  l + k + e + opol
+[3基] lklcheol  ->  l + k + lcheol
+[3基] lkshykchy  ->  l + k + shykchy
+[2基] lohedy  ->  l + ohedy
+[2基] lohor  ->  l + ohor
+[2基] lolchor  ->  l + olchor
+[2基] lolkaiin  ->  l + olkaiin
+[2基] lolkair  ->  l + olkair
+[2基] lolkedy  ->  l + olkedy
+[2基] lolkeol  ->  l + olkeol
+[4基] loralody  ->  l + o + ra + lody
+[3基] lpychol  ->  l + p + ychol
+[2基] lsh  ->  l + sh
+[2基] lshaiir  ->  l + shaiir
+[4基] lshalshy  ->  l + s + hal + shy
+[2基] lshar  ->  l + shar
+[2基] lshckhy  ->  l + shckhy
+[2基] lshcthy  ->  l + shcthy
+[2基] lshd  ->  l + shd
+[2基] lshdaiin  ->  l + shdaiin
+[2基] lshdar  ->  l + shdar
+[2基] lshdy  ->  l + shdy
+[4基] lshdyqo  ->  l + s + hd + yqo
+[2基] lshechy  ->  l + shechy
+[4基] lsheckhedy  ->  l + s + he + ckhedy
+[4基] lsheckhy  ->  l + s + he + ckhy
+[2基] lshed  ->  l + shed
+[2基] lshedary  ->  l + shedary
+[2基] lshedy  ->  l + shedy
+[2基] lshee  ->  l + shee
+[2基] lsheedain  ->  l + sheedain
+[2基] lsheedy  ->  l + sheedy
+[2基] lshees  ->  l + shees
+[2基] lsheetal  ->  l + sheetal
+[2基] lsheey  ->  l + sheey
+[4基] lsheg  ->  l + s + he + g
+[2基] lshekain  ->  l + shekain
+[2基] lsheo  ->  l + sheo
+[2基] lsheody  ->  l + sheody
+[2基] lsheok  ->  l + sheok
+[2基] lsheol  ->  l + sheol
+[4基] lsheotey  ->  l + s + he + otey
+[2基] lshes  ->  l + shes
+[2基] lshety  ->  l + shety
+[2基] lshey  ->  l + shey
+[2基] lshl  ->  l + shl
+[2基] lsho  ->  l + sho
+[2基] lshodair  ->  l + shodair
+[2基] lshody  ->  l + shody
+[2基] lshor  ->  l + shor
+[2基] lshy  ->  l + shy
+[4基] ltalor  ->  l + t + a + lor
+[2基] mar  ->  m + ar
+[2基] mol  ->  m + ol
+[3基] oaan  ->  o + a + an
+[3基] oafoaly  ->  o + a + foaly
+[4基] oairar  ->  o + a + i + rar
+[4基] oaithy  ->  o + a + it + hy
+[3基] oalchdm  ->  o + a + lchdm
+[4基] oalcheg  ->  o + a + lche + g
+[3基] oalcheol  ->  o + a + lcheol
+[3基] oaldar  ->  o + a + ldar
+[3基] oaldary  ->  o + a + ldary
+[3基] oaorar  ->  o + a + orar
+[3基] oaram  ->  o + a + ram
+[4基] ocfhhy  ->  o + cf + h + hy
+[3基] ocfshy  ->  o + c + fshy
+[4基] ocheoithey  ->  o + c + heoit + hey
+[4基] ochepalain  ->  o + c + hepa + lain
+[4基] ochepchody  ->  o + c + he + pchody
+[3基] ochkchar  ->  o + c + hkchar
+[3基] ochockhy  ->  o + c + hockhy
+[4基] ochodare  ->  o + c + hoda + re
+[4基] ochoiky  ->  o + c + hoi + ky
+[3基] ochokeey  ->  o + c + hokeey
+[3基] ocholdy  ->  o + c + holdy
+[4基] ocholshod  ->  o + c + h + olshod
+[4基] ockhh  ->  o + ck + h + h
+[4基] ockhhy  ->  o + ck + h + hy
+[4基] ockhoees  ->  o + c + k + hoees
+[3基] ocko  ->  o + c + ko
+[4基] ocphoraiin  ->  o + c + p + horaiin
+[4基] octhole  ->  o + c + t + hole
+[3基] octy  ->  o + c + ty
+[4基] odalaly  ->  o + d + a + laly
+[4基] odalar  ->  o + d + a + lar
+[4基] odaldy  ->  o + d + a + ldy
+[4基] odalydary  ->  o + d + a + lydary
+[4基] odarchdy  ->  o + d + a + rchdy
+[4基] odariin  ->  o + d + a + riin
+[4基] odchecthy  ->  o + d + che + cthy
+[4基] odeeeeodl  ->  o + d + e + eeeodl
+[4基] oeecthy  ->  o + e + e + cthy
+[4基] oeeockhy  ->  o + e + e + ockhy
+[4基] oeeolchy  ->  o + e + e + olchy
+[4基] oeeoty  ->  o + e + e + oty
+[4基] oeeseary  ->  o + e + e + seary
+[4基] oeesordy  ->  o + e + e + sordy
+[4基] oekaody  ->  o + e + ka + ody
+[3基] oekchdy  ->  o + e + kchdy
+[3基] oekeedy  ->  o + e + keedy
+[3基] oekeeor  ->  o + e + keeor
+[3基] oekeey  ->  o + e + keey
+[3基] oekeody  ->  o + e + keody
+[3基] oekeol  ->  o + e + keol
+[3基] oekshy  ->  o + e + kshy
+[4基] oeoikhy  ->  o + e + oik + hy
+[3基] oeola  ->  o + e + ola
+[3基] oeoldan  ->  o + e + oldan
+[4基] oepchksheey  ->  o + e + pc + hksheey
+[3基] oepchol  ->  o + e + pchol
+[4基] oesearees  ->  o + e + sea + rees
+[4基] oetalchg  ->  o + e + ta + lchg
+[3基] oetchdy  ->  o + e + tchdy
+[3基] oeteody  ->  o + e + teody
+[3基] oeteos  ->  o + e + teos
+[4基] ofacfom  ->  o + fa + c + fom
+[4基] ofadain  ->  o + f + a + dain
+[4基] ofakal  ->  o + f + a + kal
+[4基] ofalaiin  ->  o + f + a + laiin
+[4基] ofalals  ->  o + f + a + lals
+[4基] ofalar  ->  o + f + a + lar
+[4基] ofaldo  ->  o + f + a + ldo
+[4基] ofaral  ->  o + f + a + ral
+[4基] ofaralar  ->  o + fa + ra + lar
+[4基] ofaram  ->  o + f + a + ram
+[4基] ofaramoty  ->  o + fa + ram + oty
+[4基] ofaror  ->  o + f + a + ror
+[4基] ofchdysd  ->  o + f + c + hdysd
+[4基] ofchoshy  ->  o + f + c + hoshy
+[3基] oforain  ->  o + f + orain
+[3基] oforam  ->  o + f + oram
+[3基] ofseod  ->  o + f + seod
+[3基] ofsholdy  ->  o + f + sholdy
+[3基] ofychey  ->  o + f + ychey
+[3基] ofyskydal  ->  o + f + yskydal
+[3基] ogeom  ->  o + g + eom
+[3基] oiair  ->  o + i + air
+[4基] oifhedy  ->  o + i + f + hedy
+[3基] oiiiin  ->  o + i + iiin
+[4基] oiinal  ->  o + i + in + al
+[4基] oiinar  ->  o + i + in + ar
+[4基] oiinol  ->  o + i + in + ol
+[3基] oika  ->  o + i + ka
+[4基] oikhy  ->  o + i + k + hy
+[4基] oinaly  ->  o + i + n + aly
+[4基] oinysarx  ->  o + in + ysa + rx
+[3基] oiral  ->  o + i + ral
+[3基] oirsg  ->  o + i + rsg
+[3基] oishy  ->  o + i + shy
+[4基] oithy  ->  o + i + t + hy
+[4基] okachey  ->  o + k + a + chey
+[4基] okadaiin  ->  o + k + a + daiin
+[4基] okadar  ->  o + k + a + dar
+[4基] okaeechey  ->  o + k + a + eechey
+[4基] okag  ->  o + k + a + g
+[4基] okaifhhy  ->  o + kaif + h + hy
+[4基] okaifhy  ->  o + k + aif + hy
+[4基] okaiifchody  ->  o + k + aii + fchody
+[4基] okaiikhal  ->  o + k + aiik + hal
+[4基] okaikaly  ->  o + k + ai + kaly
+[4基] okaildy  ->  o + k + ai + ldy
+[4基] okairady  ->  o + k + ai + rady
+[4基] okaircham  ->  o + k + ai + rcham
+[4基] okairody  ->  o + k + ai + rody
+[4基] okalaiin  ->  o + k + a + laiin
+[4基] okalain  ->  o + k + a + lain
+[4基] okalair  ->  o + k + a + lair
+[4基] okalal  ->  o + k + a + lal
+[4基] okalam  ->  o + k + a + lam
+[4基] okalar  ->  o + k + a + lar
+[4基] okalchal  ->  o + k + a + lchal
+[4基] okalchdy  ->  o + k + a + lchdy
+[4基] okalched  ->  o + k + a + lched
+[4基] okalchedy  ->  o + k + a + lchedy
+[4基] okalcheg  ->  o + ka + lche + g
+[4基] okalchy  ->  o + k + a + lchy
+[4基] okald  ->  o + k + a + ld
+[4基] okalda  ->  o + k + a + lda
+[4基] okaldain  ->  o + k + a + ldain
+[4基] okaldal  ->  o + k + a + ldal
+[4基] okaldy  ->  o + k + a + ldy
+[4基] okalody  ->  o + k + a + lody
+[4基] okalol  ->  o + k + a + lol
+[4基] okalor  ->  o + k + a + lor
+[4基] okalsalchey  ->  o + ka + lsa + lchey
+[4基] okalshdy  ->  o + k + al + shdy
+[4基] okalshey  ->  o + k + al + shey
+[4基] okalys  ->  o + k + a + lys
+[4基] okaor  ->  o + k + a + or
+[4基] okaos  ->  o + k + a + os
+[4基] okaraiin  ->  o + k + a + raiin
+[4基] okaral  ->  o + k + a + ral
+[4基] okaralet  ->  o + ka + ra + let
+[4基] okaraly  ->  o + k + a + raly
+[4基] okaram  ->  o + k + a + ram
+[4基] okarar  ->  o + k + a + rar
+[4基] okarchy  ->  o + k + a + rchy
+[4基] okardy  ->  o + k + a + rdy
+[4基] okarol  ->  o + k + a + rol
+[4基] okasor  ->  o + k + a + sor
+[4基] okchafdy  ->  o + k + cha + fdy
+[4基] okcharaiin  ->  o + k + cha + raiin
+[4基] okchdldlo  ->  o + k + c + hdldlo
+[4基] okchdpchy  ->  o + k + c + hdpchy
+[4基] okcheeg  ->  o + k + chee + g
+[4基] okcheochy  ->  o + k + che + ochy
+[4基] okchhy  ->  o + k + ch + hy
+[4基] okchochor  ->  o + k + c + hochor
+[4基] okchocthy  ->  o + k + c + hocthy
+[4基] okchodeey  ->  o + k + c + hodeey
+[4基] okchodshy  ->  o + k + c + hodshy
+[4基] okchokol  ->  o + k + c + hokol
+[4基] okchokshy  ->  o + k + c + hokshy
+[4基] okchoteees  ->  o + k + c + hoteees
+[4基] okearcheol  ->  o + k + ea + rcheol
+[4基] okechdaral  ->  o + k + echda + ral
+[4基] okecheay  ->  o + k + e + cheay
+[4基] okecheey  ->  o + k + e + cheey
+[4基] okechoked  ->  o + k + ec + hoked
+[4基] okedalor  ->  o + k + eda + lor
+[4基] okedyted  ->  o + k + e + dyted
+[4基] okeearam  ->  o + k + eea + ram
+[4基] okeedaky  ->  o + k + eeda + ky
+[4基] okeedaram  ->  o + k + eeda + ram
+[4基] okeedchsy  ->  o + k + ee + dchsy
+[4基] okeeeykchy  ->  o + k + eee + ykchy
+[4基] okeeg  ->  o + k + ee + g
+[4基] okeeokain  ->  o + k + ee + okain
+[4基] okeeolkcheey  ->  o + k + ee + olkcheey
+[4基] okeeoraiin  ->  o + k + ee + oraiin
+[4基] okeesodar  ->  o + k + ee + sodar
+[4基] okeeylchedy  ->  o + k + ee + ylchedy
+[4基] okeeyteedy  ->  o + k + ee + yteedy
+[4基] okehdy  ->  o + k + e + hdy
+[4基] okeockhey  ->  o + k + e + ockhey
+[4基] okeoeeey  ->  o + k + e + oeeey
+[4基] okeoekol  ->  o + k + e + oekol
+[4基] okeohdar  ->  o + k + e + ohdar
+[4基] okeokain  ->  o + k + e + okain
+[4基] okeokear  ->  o + k + e + okear
+[4基] okeokedr  ->  o + k + e + okedr
+[4基] okeokeokeody  ->  o + ke + oke + okeody
+[4基] okeoky  ->  o + k + e + oky
+[4基] okeolaiin  ->  o + k + e + olaiin
+[4基] okeolan  ->  o + k + e + olan
+[4基] okeolar  ->  o + k + e + olar
+[4基] okeoldy  ->  o + k + e + oldy
+[4基] okeolkey  ->  o + k + e + olkey
+[4基] okeoloky  ->  o + k + e + oloky
+[4基] okeolol  ->  o + k + e + olol
+[4基] okeolor  ->  o + k + e + olor
+[4基] okeolshey  ->  o + k + e + olshey
+[4基] okeoram  ->  o + k + e + oram
+[4基] okeoschso  ->  o + k + e + oschso
+[4基] okeoteey  ->  o + k + e + oteey
+[4基] okesoe  ->  o + k + e + soe
+[4基] okeytam  ->  o + k + e + ytam
+[4基] okeyteey  ->  o + k + e + yteey
+[4基] okeyty  ->  o + k + e + yty
+[3基] okhar  ->  o + k + har
+[4基] okilcheol  ->  o + k + i + lcheol
+[4基] okinaiir  ->  o + k + in + aiir
+[4基] okirolcy  ->  o + k + i + rolcy
+[4基] oklairdy  ->  o + k + lai + rdy
+[3基] okochey  ->  o + k + ochey
+[3基] okockhy  ->  o + k + ockhy
+[3基] okodchy  ->  o + k + odchy
+[3基] okodeey  ->  o + k + odeey
+[3基] okoeese  ->  o + k + oeese
+[3基] okoeey  ->  o + k + oeey
+[3基] okoeos  ->  o + k + oeos
+[3基] okokchal  ->  o + k + okchal
+[3基] okokchodm  ->  o + k + okchodm
+[3基] okokom  ->  o + k + okom
+[3基] okoksheo  ->  o + k + oksheo
+[3基] okolaiin  ->  o + k + olaiin
+[3基] okolair  ->  o + k + olair
+[4基] okolaldy  ->  o + k + ola + ldy
+[3基] okolar  ->  o + k + olar
+[4基] okolarm  ->  o + k + ola + rm
+[3基] okolchey  ->  o + k + olchey
+[3基] okolchy  ->  o + k + olchy
+[3基] okoldaly  ->  o + k + oldaly
+[3基] okoldam  ->  o + k + oldam
+[3基] okoldm  ->  o + k + oldm
+[3基] okoldody  ->  o + k + oldody
+[3基] okoldy  ->  o + k + oldy
+[4基] okoleeolar  ->  o + k + olee + olar
+[3基] okolol  ->  o + k + olol
+[3基] okolor  ->  o + k + olor
+[3基] okolraiin  ->  o + k + olraiin
+[3基] okolshy  ->  o + k + olshy
+[3基] okolyd  ->  o + k + olyd
+[3基] okooky  ->  o + k + ooky
+[3基] okoraiin  ->  o + k + oraiin
+[3基] okorair  ->  o + k + orair
+[3基] okoral  ->  o + k + oral
+[4基] okoraldy  ->  o + k + ora + ldy
+[4基] okoramog  ->  o + k + oram + og
+[3基] okoroeey  ->  o + k + oroeey
+[3基] okorory  ->  o + k + orory
+[3基] okseey  ->  o + k + seey
+[3基] okshodeeen  ->  o + k + shodeeen
+[4基] oksholshol  ->  o + k + sh + olshol
+[4基] okydseog  ->  o + k + ydse + og
+[3基] okyeeshy  ->  o + k + yeeshy
+[3基] okyld  ->  o + k + yld
+[3基] okylky  ->  o + k + ylky
+[3基] okylor  ->  o + k + ylor
+[3基] okytaiin  ->  o + k + ytaiin
+[4基] olaen  ->  o + l + a + en
+[4基] olaiior  ->  o + l + aii + or
+[4基] olaikhy  ->  o + l + aik + hy
+[4基] olalaiin  ->  o + l + a + laiin
+[4基] olald  ->  o + l + a + ld
+[4基] olaldy  ->  o + l + a + ldy
+[4基] olalor  ->  o + l + a + lor
+[4基] olaraly  ->  o + l + a + raly
+[4基] olaran  ->  o + l + a + ran
+[4基] olcheckhy  ->  o + l + che + ckhy
+[4基] olchocfhy  ->  o + l + c + hocfhy
+[4基] olchokal  ->  o + l + c + hokal
+[4基] olcsedy  ->  o + l + c + sedy
+[4基] olcthhy  ->  o + l + cth + hy
+[4基] oleeckhey  ->  o + l + ee + ckhey
+[4基] olekeey  ->  o + l + e + keey
+[4基] oleoeder  ->  o + l + e + oeder
+[4基] olfsheoral  ->  o + l + fshe + oral
+[4基] olkalaiin  ->  o + l + ka + laiin
+[4基] olkalol  ->  o + l + ka + lol
+[4基] olkardam  ->  o + l + ka + rdam
+[4基] olkchokeedy  ->  o + l + kc + hokeedy
+[4基] olkeeoldy  ->  o + l + kee + oldy
+[4基] olkeeycthy  ->  o + l + kee + ycthy
+[2基] ollchy  ->  o + llchy
+[4基] oloeorain  ->  o + l + oe + orain
+[3基] olohy  ->  o + l + ohy
+[4基] oloiram  ->  o + l + oi + ram
+[3基] ololchey  ->  o + l + olchey
+[4基] olpoikhy  ->  o + l + poik + hy
+[2基] olqo  ->  o + lqo
+[4基] olseeg  ->  o + l + see + g
+[3基] omam  ->  o + m + am
+[4基] oochockhy  ->  o + o + c + hockhy
+[4基] ooooooooolarsr  ->  o + o + ooooo + oolarsr
+[4基] opaichy  ->  o + p + ai + chy
+[4基] opaiinar  ->  o + p + aiin + ar
+[4基] opaiiral  ->  o + p + aii + ral
+[4基] opairaly  ->  o + p + ai + raly
+[4基] opairam  ->  o + p + ai + ram
+[4基] opakam  ->  o + p + a + kam
+[4基] opalal  ->  o + p + a + lal
+[4基] opalam  ->  o + p + a + lam
+[4基] opalar  ->  o + p + a + lar
+[4基] opalchdy  ->  o + p + a + lchdy
+[4基] opaldaiin  ->  o + p + a + ldaiin
+[4基] opaldy  ->  o + p + a + ldy
+[4基] opalefom  ->  o + p + a + lefom
+[4基] opalg  ->  o + p + a + lg
+[4基] opalkaiin  ->  o + p + a + lkaiin
+[4基] opalkam  ->  o + p + a + lkam
+[4基] opalkar  ->  o + p + a + lkar
+[4基] opalke  ->  o + p + a + lke
+[4基] opaloiiry  ->  o + p + a + loiiry
+[4基] opalor  ->  o + p + a + lor
+[4基] opalshedy  ->  o + p + al + shedy
+[4基] oparairdly  ->  o + pa + rai + rdly
+[4基] oparal  ->  o + p + a + ral
+[4基] oparam  ->  o + p + a + ram
+[4基] opchaikhy  ->  o + p + chaik + hy
+[4基] opchaldy  ->  o + p + cha + ldy
+[4基] opcharoiin  ->  o + p + cha + roiin
+[4基] opchdard  ->  o + p + chda + rd
+[4基] opchealol  ->  o + p + chea + lol
+[4基] opcheolfy  ->  o + p + che + olfy
+[4基] opcholalaiin  ->  o + pc + hola + laiin
+[4基] opcholdg  ->  o + p + ch + oldg
+[4基] opcholdy  ->  o + p + c + holdy
+[4基] opcholor  ->  o + p + c + holor
+[4基] opchordy  ->  o + p + c + hordy
+[4基] opchytcy  ->  o + p + c + hytcy
+[4基] opcsedy  ->  o + p + c + sedy
+[4基] opdaildo  ->  o + p + dai + ldo
+[4基] opdairody  ->  o + p + dai + rody
+[4基] opdarshdy  ->  o + p + dar + shdy
+[3基] opheey  ->  o + p + heey
+[3基] opocphor  ->  o + p + ocphor
+[3基] opodchol  ->  o + p + odchol
+[3基] opoees  ->  o + p + oees
+[3基] opoeey  ->  o + p + oeey
+[4基] opoiisooin  ->  o + p + oii + sooin
+[3基] opolaiin  ->  o + p + olaiin
+[3基] opolkeor  ->  o + p + olkeor
+[3基] opolkod  ->  o + p + olkod
+[3基] opoloiin  ->  o + p + oloiin
+[4基] opomdy  ->  o + p + om + dy
+[3基] oporaiin  ->  o + p + oraiin
+[3基] oporar  ->  o + p + orar
+[3基] oporody  ->  o + p + orody
+[3基] opotey  ->  o + p + otey
+[4基] opsheolaiin  ->  o + p + she + olaiin
+[4基] opsheytey  ->  o + p + she + ytey
+[3基] opsholal  ->  o + p + sholal
+[3基] opydg  ->  o + p + ydg
+[3基] opykey  ->  o + p + ykey
+[4基] oracphy  ->  o + r + a + cphy
+[4基] orairody  ->  o + r + ai + rody
+[4基] oralady  ->  o + r + a + lady
+[4基] oralar  ->  o + r + a + lar
+[4基] oralaror  ->  o + ra + la + ror
+[4基] orald  ->  o + r + a + ld
+[4基] oraloly  ->  o + r + a + loly
+[4基] oranol  ->  o + r + an + ol
+[4基] orara  ->  o + r + a + ra
+[4基] oraroekeol  ->  o + ra + roe + keol
+[4基] orarol  ->  o + r + a + rol
+[4基] orarorchy  ->  o + r + a + rorchy
+[4基] oraryteop  ->  o + r + a + ryteop
+[4基] orasaly  ->  o + r + a + saly
+[2基] orlchey  ->  o + rlchey
+[3基] orolgy  ->  o + r + olgy
+[3基] orolkain  ->  o + r + olkain
+[3基] orolodain  ->  o + r + olodain
+[4基] orsheckhy  ->  o + r + she + ckhy
+[4基] orsheoldy  ->  o + r + she + oldy
+[4基] osaiisal  ->  o + s + aii + sal
+[4基] osalal  ->  o + s + a + lal
+[4基] oschotshl  ->  o + s + c + hotshl
+[2基] osh  ->  o + sh
+[2基] oshaiin  ->  o + shaiin
+[2基] oshchey  ->  o + shchey
+[2基] oshctho  ->  o + shctho
+[2基] oshdy  ->  o + shdy
+[2基] oshedy  ->  o + shedy
+[2基] osheedy  ->  o + sheedy
+[2基] osheeky  ->  o + sheeky
+[2基] osheeo  ->  o + sheeo
+[2基] osheey  ->  o + sheey
+[2基] osheo  ->  o + sheo
+[4基] osheokaiin  ->  o + s + he + okaiin
+[2基] osheol  ->  o + sheol
+[2基] oshepols  ->  o + shepols
+[2基] oshesy  ->  o + shesy
+[2基] oshey  ->  o + shey
+[2基] osho  ->  o + sho
+[2基] oshodody  ->  o + shodody
+[2基] oshol  ->  o + shol
+[2基] oshor  ->  o + shor
+[4基] oshox  ->  o + s + h + ox
+[4基] oshsodaiin  ->  o + s + h + sodaiin
+[2基] oshyteed  ->  o + shyteed
+[4基] otadar  ->  o + t + a + dar
+[4基] otaiikam  ->  o + t + aii + kam
+[4基] otaiilody  ->  o + t + aii + lody
+[4基] otainos  ->  o + t + ain + os
+[4基] otaipchy  ->  o + t + ai + pchy
+[4基] otaiphy  ->  o + t + aip + hy
+[4基] otairar  ->  o + t + ai + rar
+[4基] otairin  ->  o + t + ai + rin
+[4基] otairor  ->  o + t + ai + ror
+[4基] otakar  ->  o + t + a + kar
+[4基] otakeol  ->  o + t + a + keol
+[4基] otaky  ->  o + t + a + ky
+[4基] otala  ->  o + t + a + la
+[4基] otalaiin  ->  o + t + a + laiin
+[4基] otalain  ->  o + t + a + lain
+[4基] otalair  ->  o + t + a + lair
+[4基] otalal  ->  o + t + a + lal
+[4基] otalalg  ->  o + ta + la + lg
+[4基] otalaly  ->  o + t + a + laly
+[4基] otalam  ->  o + t + a + lam
+[4基] otalar  ->  o + t + a + lar
+[4基] otalchal  ->  o + t + a + lchal
+[4基] otalchy  ->  o + t + a + lchy
+[4基] otald  ->  o + t + a + ld
+[4基] otaldal  ->  o + t + a + ldal
+[4基] otaldiin  ->  o + t + a + ldiin
+[4基] otaldy  ->  o + t + a + ldy
+[4基] otalef  ->  o + t + a + lef
+[4基] otaleky  ->  o + t + a + leky
+[4基] otalkain  ->  o + t + a + lkain
+[4基] otalkchy  ->  o + t + a + lkchy
+[4基] otalky  ->  o + t + a + lky
+[4基] otalod  ->  o + t + a + lod
+[4基] otalody  ->  o + t + a + lody
+[4基] otalom  ->  o + t + a + lom
+[4基] otalor  ->  o + t + a + lor
+[4基] otalsar  ->  o + t + a + lsar
+[4基] otalshdy  ->  o + t + al + shdy
+[4基] otalshedy  ->  o + t + al + shedy
+[4基] otalshy  ->  o + t + al + shy
+[4基] otaraiin  ->  o + t + a + raiin
+[4基] otarain  ->  o + t + a + rain
+[4基] otaral  ->  o + t + a + ral
+[4基] otaraldy  ->  o + ta + ra + ldy
+[4基] otaram  ->  o + t + a + ram
+[4基] otaramy  ->  o + t + a + ramy
+[4基] otarar  ->  o + t + a + rar
+[4基] otararain  ->  o + ta + ra + rain
+[4基] otaras  ->  o + t + a + ras
+[4基] otaray  ->  o + t + a + ray
+[4基] otarcho  ->  o + t + a + rcho
+[4基] otarchol  ->  o + t + a + rchol
+[4基] otard  ->  o + t + a + rd
+[4基] otardaly  ->  o + t + a + rdaly
+[4基] otardam  ->  o + t + a + rdam
+[4基] otardy  ->  o + t + a + rdy
+[4基] otariin  ->  o + t + a + riin
+[4基] otariir  ->  o + t + a + riir
+[4基] otarody  ->  o + t + a + rody
+[4基] otaryly  ->  o + t + a + ryly
+[4基] otasam  ->  o + t + a + sam
+[4基] otasodlory  ->  o + t + a + sodlory
+[4基] otchald  ->  o + t + cha + ld
+[4基] otcheochy  ->  o + t + che + ochy
+[4基] otcheolom  ->  o + t + che + olom
+[4基] otchetchar  ->  o + t + che + tchar
+[4基] otcheypchedy  ->  o + t + che + ypchedy
+[4基] otchoky  ->  o + t + c + hoky
+[4基] otcholcheaiin  ->  o + t + ch + olcheaiin
+[4基] otcholchy  ->  o + t + ch + olchy
+[4基] otcholocthol  ->  o + t + ch + olocthol
+[4基] otchordy  ->  o + t + c + hordy
+[4基] otchoshy  ->  o + t + c + hoshy
+[4基] otchotor  ->  o + t + c + hotor
+[4基] otchoty  ->  o + t + c + hoty
+[4基] otchyky  ->  o + t + c + hyky
+[4基] otcsdo  ->  o + t + c + sdo
+[4基] otcsey  ->  o + t + c + sey
+[3基] otdordy  ->  o + t + dordy
+[4基] otealchedy  ->  o + t + ea + lchedy
+[4基] oteatey  ->  o + t + ea + tey
+[4基] otecheedy  ->  o + t + e + cheedy
+[4基] otechg  ->  o + t + e + chg
+[4基] otechodor  ->  o + t + e + chodor
+[4基] otechshy  ->  o + t + e + chshy
+[4基] otedalol  ->  o + t + eda + lol
+[4基] otedchor  ->  o + t + e + dchor
+[4基] otedeey  ->  o + t + e + deey
+[4基] oteedchey  ->  o + t + ee + dchey
+[4基] oteedyg  ->  o + t + ee + dyg
+[4基] oteeedchey  ->  o + t + eee + dchey
+[4基] oteeg  ->  o + t + ee + g
+[4基] oteeolchor  ->  o + t + ee + olchor
+[4基] oteeolkeey  ->  o + t + ee + olkeey
+[4基] oteesaey  ->  o + t + eesa + ey
+[4基] oteeykeey  ->  o + t + ee + ykeey
+[4基] oteeykey  ->  o + t + ee + ykey
+[4基] oteeykshy  ->  o + t + ee + ykshy
+[4基] oteoaldy  ->  o + t + eoa + ldy
+[4基] oteoarar  ->  o + t + eoa + rar
+[4基] oteochedy  ->  o + t + e + ochedy
+[4基] oteochey  ->  o + t + e + ochey
+[4基] oteochor  ->  o + t + e + ochor
+[4基] oteodched  ->  o + t + e + odched
+[4基] oteodchy  ->  o + t + e + odchy
+[4基] oteodshey  ->  o + t + e + odshey
+[4基] oteoeey  ->  o + t + e + oeey
+[4基] oteoefol  ->  o + t + e + oefol
+[4基] oteofy  ->  o + t + e + ofy
+[4基] oteokeey  ->  o + t + e + okeey
+[4基] oteolain  ->  o + t + e + olain
+[4基] oteolair  ->  o + t + e + olair
+[4基] oteolar  ->  o + t + e + olar
+[4基] oteoldy  ->  o + t + e + oldy
+[4基] oteorar  ->  o + t + e + orar
+[4基] oteorom  ->  o + t + e + orom
+[4基] oteosdal  ->  o + t + e + osdal
+[4基] oteoshaly  ->  o + t + eo + shaly
+[4基] oteoshey  ->  o + t + eo + shey
+[4基] oteoteeody  ->  o + t + e + oteeody
+[4基] oteoteotsho  ->  o + te + ote + otsho
+[4基] oteotey  ->  o + t + e + otey
+[4基] oteotor  ->  o + t + e + otor
+[4基] otesalod  ->  o + t + esa + lod
+[4基] otgoldl  ->  o + t + g + oldl
+[3基] otkchedy  ->  o + t + kchedy
+[3基] otlchdain  ->  o + t + lchdain
+[3基] otleey  ->  o + t + leey
+[3基] otochedy  ->  o + t + ochedy
+[3基] otochor  ->  o + t + ochor
+[4基] otockey  ->  o + t + oc + key
+[4基] otodarod  ->  o + t + oda + rod
+[3基] otodchy  ->  o + t + odchy
+[3基] otodeeeo  ->  o + t + odeeeo
+[3基] otodeeodor  ->  o + t + odeeodor
+[3基] otoees  ->  o + t + oees
+[4基] otoeeseor  ->  o + t + oee + seor
+[4基] otoikhy  ->  o + t + oik + hy
+[4基] otokaiman  ->  o + t + okaim + an
+[3基] otokal  ->  o + t + okal
+[3基] otokchey  ->  o + t + okchey
+[3基] otokcho  ->  o + t + okcho
+[3基] otokeedar  ->  o + t + okeedar
+[3基] otokeedy  ->  o + t + okeedy
+[3基] otokeoar  ->  o + t + okeoar
+[3基] otokol  ->  o + t + okol
+[3基] otoky  ->  o + t + oky
+[3基] otolaiin  ->  o + t + olaiin
+[3基] otolaiino  ->  o + t + olaiino
+[3基] otolam  ->  o + t + olam
+[4基] otolarol  ->  o + t + ola + rol
+[3基] otolchcthy  ->  o + t + olchcthy
+[3基] otolchd  ->  o + t + olchd
+[3基] otolches  ->  o + t + olches
+[3基] otolchey  ->  o + t + olchey
+[3基] otoldos  ->  o + t + oldos
+[3基] otoldy  ->  o + t + oldy
+[3基] otoldyl  ->  o + t + oldyl
+[3基] otolfcho  ->  o + t + olfcho
+[3基] otolkshy  ->  o + t + olkshy
+[3基] otolky  ->  o + t + olky
+[3基] otoloaiin  ->  o + t + oloaiin
+[4基] otoloaram  ->  o + t + oloa + ram
+[3基] otolodal  ->  o + t + olodal
+[3基] otolol  ->  o + t + olol
+[4基] otololees  ->  o + t + ol + olees
+[3基] otolom  ->  o + t + olom
+[3基] otolopaiin  ->  o + t + olopaiin
+[3基] otolor  ->  o + t + olor
+[3基] otolosheey  ->  o + t + olosheey
+[3基] otoloty  ->  o + t + oloty
+[3基] otolsar  ->  o + t + olsar
+[3基] otolsheeos  ->  o + t + olsheeos
+[4基] otoltopar  ->  o + t + olt + opar
+[3基] otoraiin  ->  o + t + oraiin
+[3基] otorain  ->  o + t + orain
+[4基] otoralchy  ->  o + t + ora + lchy
+[3基] otoram  ->  o + t + oram
+[3基] otorar  ->  o + t + orar
+[3基] otorchety  ->  o + t + orchety
+[3基] otorchy  ->  o + t + orchy
+[3基] otoreees  ->  o + t + oreees
+[3基] otorkeol  ->  o + t + orkeol
+[3基] otorsheey  ->  o + t + orsheey
+[3基] otorsheod  ->  o + t + orsheod
+[4基] otoshol  ->  o + t + o + shol
+[3基] otota  ->  o + t + ota
+[3基] ototar  ->  o + t + otar
+[3基] otseey  ->  o + t + seey
+[4基] otshealkar  ->  o + t + shea + lkar
+[3基] otychdy  ->  o + t + ychdy
+[3基] otycheedy  ->  o + t + ycheedy
+[3基] otychey  ->  o + t + ychey
+[3基] otykchs  ->  o + t + ykchs
+[3基] otykeey  ->  o + t + ykeey
+[3基] otykol  ->  o + t + ykol
+[3基] otyky  ->  o + t + yky
+[3基] otylal  ->  o + t + ylal
+[4基] otyshy  ->  o + t + y + shy
+[3基] otytam  ->  o + t + ytam
+[3基] otytchol  ->  o + t + ytchol
+[3基] otytchy  ->  o + t + ytchy
+[3基] otyteeodain  ->  o + t + yteeodain
+[4基] oyteiedar  ->  o + y + tei + edar
+[3基] padar  ->  p + a + dar
+[4基] paichy  ->  p + a + i + chy
+[4基] paiinody  ->  p + a + iin + ody
+[4基] pairain  ->  p + a + i + rain
+[4基] pairar  ->  p + a + i + rar
+[4基] pairody  ->  p + a + i + rody
+[3基] palar  ->  p + a + lar
+[3基] palchar  ->  p + a + lchar
+[3基] palchd  ->  p + a + lchd
+[3基] palkeedy  ->  p + a + lkeedy
+[4基] palshsar  ->  p + a + l + shsar
+[4基] paradam  ->  p + a + ra + dam
+[3基] parair  ->  p + a + rair
+[3基] parar  ->  p + a + rar
+[3基] parchdy  ->  p + a + rchdy
+[3基] pardy  ->  p + a + rdy
+[3基] parody  ->  p + a + rody
+[3基] paroiin  ->  p + a + roiin
+[4基] pchafdan  ->  p + c + ha + fdan
+[4基] pchallarar  ->  p + cha + lla + rar
+[4基] pcharalor  ->  p + cha + ra + lor
+[4基] pcharasy  ->  p + c + ha + rasy
+[4基] pchdairor  ->  p + c + hdai + ror
+[4基] pchdarody  ->  p + c + hda + rody
+[3基] pchdeedy  ->  p + c + hdeedy
+[3基] pchdlar  ->  p + c + hdlar
+[4基] pchecfhey  ->  p + c + he + cfhey
+[4基] pchedchdy  ->  p + c + he + dchdy
+[4基] pchedeey  ->  p + c + he + deey
+[4基] pcheockhy  ->  p + c + he + ockhy
+[4基] pcheocphy  ->  p + c + he + ocphy
+[4基] pcheodchy  ->  p + c + he + odchy
+[4基] pcheoepchy  ->  p + c + heoe + pchy
+[4基] pcheokeey  ->  p + c + he + okeey
+[4基] pcheoldom  ->  p + c + he + oldom
+[4基] pcheolkal  ->  p + c + he + olkal
+[4基] pchesfchy  ->  p + c + he + sfchy
+[3基] pchocthy  ->  p + c + hocthy
+[4基] pchocty  ->  p + c + hoc + ty
+[3基] pchoetal  ->  p + c + hoetal
+[3基] pchofar  ->  p + c + hofar
+[4基] pchofychy  ->  p + c + hof + ychy
+[4基] pcholkal  ->  p + c + h + olkal
+[4基] pcholkchdy  ->  p + c + h + olkchdy
+[4基] pcholkeedy  ->  p + c + h + olkeedy
+[4基] pcholky  ->  p + c + h + olky
+[3基] pcholor  ->  p + c + holor
+[3基] pchoraiin  ->  p + c + horaiin
+[3基] pchoror  ->  p + c + horor
+[3基] pchotchy  ->  p + c + hotchy
+[4基] pchsodar  ->  p + c + h + sodar
+[3基] pchtchdy  ->  p + c + htchdy
+[3基] pchykar  ->  p + c + hykar
+[4基] pdalshor  ->  p + d + al + shor
+[4基] pdrairdy  ->  p + d + rai + rdy
+[2基] pdsairy  ->  p + dsairy
+[2基] pdsheody  ->  p + dsheody
+[2基] pdychoiin  ->  p + dychoiin
+[4基] poalosy  ->  p + o + a + losy
+[4基] poalshsal  ->  p + o + al + shsal
+[4基] poaral  ->  p + o + a + ral
+[2基] pochaiin  ->  p + ochaiin
+[4基] pocharal  ->  p + o + cha + ral
+[2基] pochedy  ->  p + ochedy
+[2基] pocheody  ->  p + ocheody
+[2基] pochey  ->  p + ochey
+[2基] pochor  ->  p + ochor
+[4基] podairol  ->  p + o + dai + rol
+[4基] podaroar  ->  p + o + da + roar
+[2基] podchey  ->  p + odchey
+[2基] podeesho  ->  p + odeesho
+[2基] podkor  ->  p + odkor
+[2基] podshedy  ->  p + odshedy
+[2基] poedair  ->  p + oedair
+[2基] poeeaiin  ->  p + oeeaiin
+[2基] poeear  ->  p + oeear
+[2基] poeeas  ->  p + oeeas
+[2基] poeeo  ->  p + oeeo
+[4基] poeokeey  ->  p + o + e + okeey
+[4基] pofochey  ->  p + o + f + ochey
+[2基] pokain  ->  p + okain
+[2基] pokar  ->  p + okar
+[2基] pokeey  ->  p + okeey
+[2基] polaiin  ->  p + olaiin
+[2基] polairy  ->  p + olairy
+[2基] polal  ->  p + olal
+[4基] polalchdy  ->  p + o + la + lchdy
+[4基] polanar  ->  p + o + lan + ar
+[2基] polar  ->  p + olar
+[4基] polarar  ->  p + o + la + rar
+[2基] polchal  ->  p + olchal
+[2基] polchdy  ->  p + olchdy
+[2基] polchechy  ->  p + olchechy
+[2基] polched  ->  p + olched
+[2基] polchedy  ->  p + olchedy
+[4基] polcheolkain  ->  p + o + lche + olkain
+[2基] polchey  ->  p + olchey
+[2基] polchls  ->  p + olchls
+[2基] polchs  ->  p + olchs
+[2基] polchy  ->  p + olchy
+[2基] poldaiin  ->  p + oldaiin
+[4基] poldaky  ->  p + o + lda + ky
+[2基] poldchody  ->  p + oldchody
+[2基] poldshedy  ->  p + oldshedy
+[2基] poldy  ->  p + oldy
+[4基] poleedaran  ->  p + o + leeda + ran
+[2基] poleeol  ->  p + oleeol
+[2基] polkchy  ->  p + olkchy
+[2基] polkeedal  ->  p + olkeedal
+[2基] polkeeey  ->  p + olkeeey
+[2基] polkeeo  ->  p + olkeeo
+[2基] polkeey  ->  p + olkeey
+[2基] polkiin  ->  p + olkiin
+[2基] polky  ->  p + olky
+[2基] polor  ->  p + olor
+[2基] polsaisy  ->  p + olsaisy
+[2基] polshdal  ->  p + olshdal
+[2基] polshdy  ->  p + olshdy
+[2基] polshol  ->  p + olshol
+[2基] polshor  ->  p + olshor
+[2基] polshy  ->  p + olshy
+[2基] polteshol  ->  p + olteshol
+[2基] polyshy  ->  p + olyshy
+[4基] poraiiindy  ->  p + o + raiiin + dy
+[2基] poraiin  ->  p + oraiin
+[2基] porain  ->  p + orain
+[2基] porair  ->  p + orair
+[2基] poral  ->  p + oral
+[2基] porar  ->  p + orar
+[4基] porarchy  ->  p + o + ra + rchy
+[2基] porchey  ->  p + orchey
+[2基] porechol  ->  p + orechol
+[2基] porol  ->  p + orol
+[2基] poror  ->  p + oror
+[2基] pororaiin  ->  p + ororaiin
+[2基] porory  ->  p + orory
+[2基] porshols  ->  p + orshols
+[4基] posalshy  ->  p + o + sal + shy
+[3基] posheor  ->  p + o + sheor
+[3基] posheos  ->  p + o + sheos
+[3基] poshody  ->  p + o + shody
+[3基] poshol  ->  p + o + shol
+[2基] possheody  ->  p + ossheody
+[4基] potchokar  ->  p + o + tc + hokar
+[2基] potol  ->  p + otol
+[2基] potoy  ->  p + otoy
+[4基] psalar  ->  p + s + a + lar
+[2基] pschedal  ->  p + schedal
+[4基] psheodshy  ->  p + s + he + odshy
+[4基] psheoepoain  ->  p + s + heoe + poain
+[4基] psheoky  ->  p + s + he + oky
+[4基] psheoldy  ->  p + s + he + oldy
+[4基] pshodalos  ->  p + s + hoda + los
+[2基] pshorol  ->  p + shorol
+[2基] pychal  ->  p + ychal
+[2基] pychdar  ->  p + ychdar
+[2基] pychory  ->  p + ychory
+[4基] pydaeey  ->  p + y + da + eey
+[2基] pydchdom  ->  p + ydchdom
+[2基] pydeey  ->  p + ydeey
+[2基] pykedy  ->  p + ykedy
+[2基] pykeor  ->  p + ykeor
+[2基] pykydal  ->  p + ykydal
+[2基] pyoaly  ->  p + yoaly
+[4基] pysaiinor  ->  p + y + saiin + or
+[3基] qaear  ->  q + a + ear
+[4基] qairal  ->  q + a + i + ral
+[3基] qakar  ->  q + a + kar
+[3基] qaloin  ->  q + a + loin
+[4基] qckhhy  ->  q + ck + h + hy
+[4基] qcphhedy  ->  q + cp + h + hedy
+[4基] qcphhy  ->  q + cp + h + hy
+[4基] qcthhy  ->  q + ct + h + hy
+[4基] qeedeey  ->  q + e + e + deey
+[3基] qeeeear  ->  q + e + eeear
+[3基] qekchdy  ->  q + e + kchdy
+[3基] qekchy  ->  q + e + kchy
+[3基] qekeeey  ->  q + e + keeey
+[3基] qekeey  ->  q + e + keey
+[4基] qekeochor  ->  q + e + ke + ochor
+[3基] qekeody  ->  q + e + keody
+[4基] qekeoldy  ->  q + e + ke + oldy
+[3基] qekeor  ->  q + e + keor
+[4基] qeokehy  ->  q + e + oke + hy
+[3基] qeokeody  ->  q + e + okeody
+[3基] qeoodaiin  ->  q + e + oodaiin
+[3基] qepchedy  ->  q + e + pchedy
+[3基] qepchey  ->  q + e + pchey
+[4基] qepoepy  ->  q + e + p + oepy
+[3基] qetchar  ->  q + e + tchar
+[3基] qetchdy  ->  q + e + tchdy
+[3基] qeykeey  ->  q + e + ykeey
+[3基] qkhey  ->  q + k + hey
+[3基] qkhol  ->  q + k + hol
+[3基] qkholdy  ->  q + k + holdy
+[3基] qkoldy  ->  q + k + oldy
+[2基] qlky  ->  q + lky
+[4基] qoaikhy  ->  q + o + aik + hy
+[4基] qochecthm  ->  q + o + che + cthm
+[4基] qocheoty  ->  q + o + che + oty
+[4基] qochoithy  ->  q + o + choit + hy
+[4基] qockhhdy  ->  q + o + ckh + hdy
+[4基] qockhhy  ->  q + o + ckh + hy
+[4基] qocky  ->  q + o + c + ky
+[4基] qocpheeckhy  ->  q + o + cphee + ckhy
+[4基] qocseedy  ->  q + o + c + seedy
+[4基] qoctaiin  ->  q + o + c + taiin
+[4基] qoctchey  ->  q + o + c + tchey
+[4基] qodaiikhy  ->  q + o + daiik + hy
+[2基] qodykey  ->  q + odykey
+[4基] qoedeey  ->  q + o + e + deey
+[4基] qoeeckhy  ->  q + o + ee + ckhy
+[4基] qoeedeody  ->  q + o + ee + deody
+[4基] qoeeeety  ->  q + o + e + eeety
+[4基] qoeekeedy  ->  q + o + ee + keedy
+[4基] qoeeokaiin  ->  q + o + ee + okaiin
+[4基] qoekchar  ->  q + o + e + kchar
+[4基] qoekchy  ->  q + o + e + kchy
+[4基] qoekeey  ->  q + o + e + keey
+[4基] qoekeeykeody  ->  q + oe + kee + ykeody
+[4基] qoekeol  ->  q + o + e + keol
+[4基] qoekeor  ->  q + o + e + keor
+[4基] qoekshg  ->  q + o + e + kshg
+[4基] qoepchy  ->  q + o + e + pchy
+[4基] qoepsheody  ->  q + o + e + psheody
+[4基] qoeteey  ->  q + o + e + teey
+[4基] qofockhdy  ->  q + o + f + ockhdy
+[4基] qoforom  ->  q + o + f + orom
+[4基] qoiheey  ->  q + o + i + heey
+[4基] qoikeey  ->  q + o + i + keey
+[4基] qoirain  ->  q + o + i + rain
+[4基] qoisol  ->  q + o + i + sol
+[4基] qokaekeeey  ->  q + oka + e + keeey
+[4基] qokaiinos  ->  q + o + kaiin + os
+[4基] qokairolchdy  ->  q + o + kair + olchdy
+[4基] qokairor  ->  q + o + kai + ror
+[4基] qokalaiin  ->  q + o + ka + laiin
+[4基] qokalam  ->  q + o + ka + lam
+[4基] qokalar  ->  q + o + ka + lar
+[4基] qokalchal  ->  q + o + ka + lchal
+[4基] qokalchar  ->  q + o + ka + lchar
+[4基] qokalchdy  ->  q + o + ka + lchdy
+[4基] qokalcheol  ->  q + o + ka + lcheol
+[4基] qokalchey  ->  q + o + ka + lchey
+[4基] qokaldar  ->  q + o + ka + ldar
+[4基] qokaldy  ->  q + o + ka + ldy
+[4基] qokalol  ->  q + o + ka + lol
+[4基] qokalom  ->  q + o + ka + lom
+[4基] qokalor  ->  q + o + ka + lor
+[4基] qokaloro  ->  q + o + ka + loro
+[4基] qokalos  ->  q + o + ka + los
+[4基] qokalsh  ->  q + o + kal + sh
+[4基] qokalshedy  ->  q + o + kal + shedy
+[4基] qokamdy  ->  q + o + kam + dy
+[4基] qokaoy  ->  q + o + ka + oy
+[4基] qokaram  ->  q + o + ka + ram
+[4基] qokarary  ->  q + o + ka + rary
+[4基] qokchkeey  ->  q + o + kc + hkeey
+[4基] qokchocthor  ->  q + o + kc + hocthor
+[4基] qokchyky  ->  q + o + kc + hyky
+[4基] qokealdy  ->  q + o + kea + ldy
+[4基] qokechchy  ->  q + o + ke + chchy
+[4基] qokechckhy  ->  q + o + ke + chckhy
+[4基] qokecheos  ->  q + o + ke + cheos
+[4基] qokeeashdy  ->  q + o + keea + shdy
+[4基] qokeeokain  ->  q + o + kee + okain
+[4基] qokeeoky  ->  q + o + kee + oky
+[4基] qokeeolchey  ->  q + o + kee + olchey
+[4基] qokeg  ->  q + o + ke + g
+[4基] qokehdy  ->  q + o + ke + hdy
+[4基] qokeochy  ->  q + o + ke + ochy
+[4基] qokeoefy  ->  q + o + ke + oefy
+[4基] qokeog  ->  q + o + ke + og
+[4基] qokeokedy  ->  q + o + ke + okedy
+[4基] qokhy  ->  q + o + k + hy
+[4基] qokiiiody  ->  q + o + kiii + ody
+[4基] qoklcheey  ->  q + o + k + lcheey
+[4基] qokochy  ->  q + o + k + ochy
+[4基] qokoeey  ->  q + o + k + oeey
+[4基] qokokchy  ->  q + o + k + okchy
+[4基] qokokil  ->  q + o + k + okil
+[4基] qokolchedy  ->  q + o + k + olchedy
+[4基] qokolchey  ->  q + o + k + olchey
+[4基] qokold  ->  q + o + k + old
+[4基] qokoldy  ->  q + o + k + oldy
+[4基] qokolkain  ->  q + o + k + olkain
+[4基] qokolkchdy  ->  q + o + k + olkchdy
+[4基] qokolky  ->  q + o + k + olky
+[4基] qokololal  ->  q + o + k + ololal
+[4基] qokopy  ->  q + o + k + opy
+[4基] qokoral  ->  q + o + k + oral
+[4基] qokorar  ->  q + o + k + orar
+[4基] qokoror  ->  q + o + k + oror
+[4基] qokychdy  ->  q + o + k + ychdy
+[4基] qokylddy  ->  q + o + k + ylddy
+[2基] qolchdy  ->  q + olchdy
+[2基] qolchedy  ->  q + olchedy
+[2基] qolcheedy  ->  q + olcheedy
+[2基] qolcheey  ->  q + olcheey
+[2基] qolcheol  ->  q + olcheol
+[2基] qolcheor  ->  q + olcheor
+[2基] qolchey  ->  q + olchey
+[2基] qolchy  ->  q + olchy
+[2基] qoleechedy  ->  q + oleechedy
+[2基] qolkaiin  ->  q + olkaiin
+[2基] qolkain  ->  q + olkain
+[2基] qolkary  ->  q + olkary
+[2基] qolkchy  ->  q + olkchy
+[2基] qolkedy  ->  q + olkedy
+[2基] qolkeedy  ->  q + olkeedy
+[2基] qolkeeey  ->  q + olkeeey
+[2基] qolkeey  ->  q + olkeey
+[2基] qolkeshdy  ->  q + olkeshdy
+[2基] qolkey  ->  q + olkey
+[2基] qolkshey  ->  q + olkshey
+[2基] qolky  ->  q + olky
+[2基] qolshdy  ->  q + olshdy
+[2基] qolshedy  ->  q + olshedy
+[2基] qolsheedy  ->  q + olsheedy
+[2基] qolsheey  ->  q + olsheey
+[2基] qolshey  ->  q + olshey
+[2基] qolshy  ->  q + olshy
+[2基] qoltedy  ->  q + oltedy
+[2基] qolteedy  ->  q + olteedy
+[2基] qoochey  ->  q + oochey
+[2基] qoochy  ->  q + oochy
+[2基] qooeel  ->  q + ooeel
+[2基] qooko  ->  q + ooko
+[2基] qooldy  ->  q + ooldy
+[3基] qoolkaiin  ->  q + o + olkaiin
+[3基] qoolkal  ->  q + o + olkal
+[3基] qoolkeedy  ->  q + o + olkeedy
+[3基] qoolkeey  ->  q + o + olkeey
+[2基] qoorar  ->  q + oorar
+[2基] qooto  ->  q + ooto
+[4基] qopairam  ->  q + o + pai + ram
+[4基] qopalor  ->  q + o + pa + lor
+[4基] qoparaiin  ->  q + o + pa + raiin
+[4基] qopchypcho  ->  q + o + pc + hypcho
+[4基] qopoeey  ->  q + o + p + oeey
+[4基] qopolkain  ->  q + o + p + olkain
+[2基] qoqokeey  ->  q + oqokeey
+[2基] qoscheody  ->  q + oscheody
+[2基] qoschodam  ->  q + oschodam
+[2基] qoseey  ->  q + oseey
+[4基] qosheckhhy  ->  qo + she + ckh + hy
+[3基] qoshocphy  ->  q + o + shocphy
+[4基] qotaiior  ->  q + o + taii + or
+[4基] qotalal  ->  q + o + ta + lal
+[4基] qotalchedy  ->  q + o + ta + lchedy
+[4基] qotaldy  ->  q + o + ta + ldy
+[4基] qotalody  ->  q + o + ta + lody
+[4基] qotalom  ->  q + o + ta + lom
+[4基] qotalshy  ->  q + o + tal + shy
+[4基] qotardy  ->  q + o + ta + rdy
+[4基] qotcholm  ->  q + o + tc + holm
+[4基] qotchoraiin  ->  q + o + tc + horaiin
+[4基] qotchotchy  ->  q + o + tc + hotchy
+[4基] qotchytor  ->  q + o + tc + hytor
+[4基] qotdcty  ->  q + ot + dc + ty
+[4基] qotddyar  ->  q + o + t + ddyar
+[4基] qotecheor  ->  q + o + te + cheor
+[4基] qotechoep  ->  q + o + te + choep
+[4基] qotedshedy  ->  q + o + te + dshedy
+[4基] qoteeotchy  ->  q + o + tee + otchy
+[4基] qoteold  ->  q + o + te + old
+[4基] qoteotor  ->  q + o + te + otor
+[4基] qoteytyqoky  ->  q + o + teyt + yqoky
+[4基] qotlolkal  ->  q + o + tl + olkal
+[4基] qotocthey  ->  q + o + t + octhey
+[4基] qotoear  ->  q + o + t + oear
+[4基] qotoees  ->  q + o + t + oees
+[4基] qotoeetchy  ->  q + ot + oee + tchy
+[4基] qotoeey  ->  q + o + t + oeey
+[4基] qotohy  ->  q + o + t + ohy
+[4基] qotokody  ->  q + o + t + okody
+[4基] qotoky  ->  q + o + t + oky
+[4基] qotolaiin  ->  q + o + t + olaiin
+[4基] qotolchd  ->  q + o + t + olchd
+[4基] qotolcheo  ->  q + o + t + olcheo
+[4基] qotolchy  ->  q + o + t + olchy
+[4基] qotoldy  ->  q + o + t + oldy
+[4基] qotolol  ->  q + o + t + olol
+[4基] qotomody  ->  q + o + tom + ody
+[4基] qototeeey  ->  q + o + t + oteeey
+[4基] qotyshey  ->  q + o + ty + shey
+[2基] qoykeeey  ->  q + oykeeey
+[2基] qoykeey  ->  q + oykeey
+[2基] qoyky  ->  q + oyky
+[2基] qoypchol  ->  q + oypchol
+[3基] qsolkeedy  ->  q + s + olkeedy
+[2基] qyoeey  ->  q + yoeey
+[4基] raify  ->  r + a + i + fy
+[4基] raikchy  ->  r + a + i + kchy
+[4基] rainal  ->  r + a + in + al
+[4基] raithty  ->  r + a + it + hty
+[4基] raithy  ->  r + a + it + hy
+[4基] raity  ->  r + a + i + ty
+[3基] rakain  ->  r + a + kain
+[3基] ralchl  ->  r + a + lchl
+[3基] ralchs  ->  r + a + lchs
+[3基] ralchy  ->  r + a + lchy
+[3基] raldl  ->  r + a + ldl
+[3基] raldy  ->  r + a + ldy
+[3基] ralkchedy  ->  r + a + lkchedy
+[3基] ralky  ->  r + a + lky
+[3基] ralom  ->  r + a + lom
+[4基] ramshy  ->  r + a + m + shy
+[3基] raraiiin  ->  r + a + raiiin
+[3基] raraiin  ->  r + a + raiin
+[3基] raral  ->  r + a + ral
+[4基] raraldy  ->  r + a + ra + ldy
+[3基] raram  ->  r + a + ram
+[4基] rarolchl  ->  r + a + r + olchl
+[3基] raroshy  ->  r + a + roshy
+[4基] rchealcham  ->  r + c + hea + lcham
+[4基] rcheold  ->  r + c + he + old
+[4基] rchseesy  ->  r + c + h + seesy
+[4基] rfchykchey  ->  r + f + c + hykchey
+[4基] rokaix  ->  r + o + kai + x
+[2基] rolchedy  ->  r + olchedy
+[2基] rolchey  ->  r + olchey
+[2基] rolchy  ->  r + olchy
+[2基] rolkam  ->  r + olkam
+[2基] rolkeedy  ->  r + olkeedy
+[2基] rolkeey  ->  r + olkeey
+[2基] roloty  ->  r + oloty
+[2基] rolsheedy  ->  r + olsheedy
+[2基] rolshey  ->  r + olshey
+[2基] rshdy  ->  r + shdy
+[2基] rsheal  ->  r + sheal
+[2基] rshed  ->  r + shed
+[2基] rshedy  ->  r + shedy
+[2基] rsheedar  ->  r + sheedar
+[2基] rsheedy  ->  r + sheedy
+[2基] rsheodor  ->  r + sheodor
+[2基] rsheol  ->  r + sheol
+[2基] rshey  ->  r + shey
+[3基] sachy  ->  s + a + chy
+[4基] sacthhy  ->  s + a + cth + hy
+[4基] saiichor  ->  s + a + ii + chor
+[4基] saiinchy  ->  s + a + iin + chy
+[4基] saiindy  ->  s + a + iin + dy
+[4基] saiirol  ->  s + a + ii + rol
+[4基] saimchy  ->  s + a + im + chy
+[4基] sainn  ->  s + a + in + n
+[4基] sairal  ->  s + a + i + ral
+[4基] sairaly  ->  s + a + i + raly
+[4基] sairn  ->  s + a + i + rn
+[4基] sairol  ->  s + a + i + rol
+[4基] sairom  ->  s + a + i + rom
+[4基] sairor  ->  s + a + i + ror
+[4基] saithy  ->  s + a + it + hy
+[3基] sakaiin  ->  s + a + kaiin
+[3基] sakar  ->  s + a + kar
+[3基] salal  ->  s + a + lal
+[3基] salar  ->  s + a + lar
+[3基] salched  ->  s + a + lched
+[3基] salchedal  ->  s + a + lchedal
+[3基] salchedy  ->  s + a + lchedy
+[3基] saldaiin  ->  s + a + ldaiin
+[3基] saldal  ->  s + a + ldal
+[3基] saldam  ->  s + a + ldam
+[3基] saldy  ->  s + a + ldy
+[3基] salkeedy  ->  s + a + lkeedy
+[3基] saloiin  ->  s + a + loiin
+[3基] salol  ->  s + a + lol
+[3基] salols  ->  s + a + lols
+[4基] salshcthdy  ->  s + a + l + shcthdy
+[3基] salsoiin  ->  s + a + lsoiin
+[3基] saltar  ->  s + a + ltar
+[3基] saltedy  ->  s + a + ltedy
+[3基] salxar  ->  s + a + lxar
+[4基] samchorly  ->  s + am + c + horly
+[4基] sandy  ->  s + a + n + dy
+[3基] saraiin  ->  s + a + raiin
+[3基] saraiir  ->  s + a + raiir
+[3基] sarain  ->  s + a + rain
+[3基] saraisl  ->  s + a + raisl
+[3基] saral  ->  s + a + ral
+[3基] saram  ->  s + a + ram
+[3基] sarar  ->  s + a + rar
+[3基] sarg  ->  s + a + rg
+[3基] sarol  ->  s + a + rol
+[3基] saroldal  ->  s + a + roldal
+[3基] sarols  ->  s + a + rols
+[3基] sarydy  ->  s + a + rydy
+[3基] satar  ->  s + a + tar
+[3基] sayfchedy  ->  s + a + yfchedy
+[4基] scharchy  ->  s + c + ha + rchy
+[4基] schocthhy  ->  s + c + hocth + hy
+[3基] schodchy  ->  s + c + hodchy
+[3基] schokey  ->  s + c + hokey
+[3基] schold  ->  s + c + hold
+[3基] schoshe  ->  s + c + hoshe
+[3基] scsedy  ->  s + c + sedy
+[4基] scseykcheol  ->  s + c + se + ykcheol
+[3基] secheeol  ->  s + e + cheeol
+[3基] seokol  ->  s + e + okol
+[4基] shaikhhy  ->  s + haik + h + hy
+[4基] shaikhy  ->  s + h + aik + hy
+[4基] shaldy  ->  s + h + a + ldy
+[4基] shalkaiin  ->  s + h + a + lkaiin
+[4基] shalkl  ->  s + h + a + lkl
+[4基] shalky  ->  s + h + a + lky
+[4基] shalom  ->  s + h + a + lom
+[4基] shapchedyfeey  ->  s + ha + pche + dyfeey
+[4基] sharal  ->  s + h + a + ral
+[4基] sharam  ->  s + h + a + ram
+[4基] shckhdchy  ->  s + h + ck + hdchy
+[4基] shckhh  ->  s + h + ckh + h
+[4基] shckhhd  ->  s + h + ckh + hd
+[4基] shckhhy  ->  s + h + ckh + hy
+[4基] shcphhy  ->  s + h + cph + hy
+[4基] shcthhy  ->  s + h + cth + hy
+[4基] shcty  ->  s + h + c + ty
+[4基] shdaldy  ->  s + h + da + ldy
+[4基] shdalky  ->  s + h + da + lky
+[3基] shdykairy  ->  s + h + dykairy
+[3基] shdytody  ->  s + h + dytody
+[4基] sheckeey  ->  s + h + ec + keey
+[4基] sheckh  ->  s + h + e + ckh
+[4基] sheckhal  ->  s + h + e + ckhal
+[4基] sheckhdy  ->  s + h + e + ckhdy
+[4基] sheckhedy  ->  s + h + e + ckhedy
+[4基] sheckhey  ->  s + h + e + ckhey
+[4基] sheckhy  ->  s + h + e + ckhy
+[4基] shecphhdy  ->  s + he + cph + hdy
+[4基] shecphy  ->  s + h + e + cphy
+[4基] shecthedchy  ->  s + he + cthe + dchy
+[4基] shecthedy  ->  s + h + e + cthedy
+[4基] shecthey  ->  s + h + e + cthey
+[4基] shecthy  ->  s + h + e + cthy
+[4基] shectyhy  ->  s + h + ect + yhy
+[4基] shedaitain  ->  s + h + edai + tain
+[4基] shedaldy  ->  s + h + eda + ldy
+[4基] shedchy  ->  s + h + e + dchy
+[4基] shedeeey  ->  s + h + e + deeey
+[4基] shedefam  ->  s + h + e + defam
+[4基] shedkedy  ->  s + h + e + dkedy
+[4基] shedshey  ->  s + h + e + dshey
+[4基] shedykain  ->  s + h + e + dykain
+[4基] shedykeyl  ->  s + h + e + dykeyl
+[4基] sheeckhey  ->  s + h + ee + ckhey
+[4基] sheeckhy  ->  s + h + ee + ckhy
+[4基] sheecthey  ->  s + h + ee + cthey
+[4基] sheeetchy  ->  s + h + eee + tchy
+[4基] sheekchy  ->  s + h + ee + kchy
+[4基] sheekeey  ->  s + h + ee + keey
+[4基] sheekshy  ->  s + h + ee + kshy
+[4基] sheeodees  ->  s + h + ee + odees
+[4基] sheeoeky  ->  s + h + ee + oeky
+[4基] sheeoldy  ->  s + h + ee + oldy
+[4基] sheeolody  ->  s + h + ee + olody
+[4基] sheepshey  ->  s + h + ee + pshey
+[4基] sheetchy  ->  s + h + ee + tchy
+[4基] sheeteey  ->  s + h + ee + teey
+[4基] shefchdy  ->  s + h + e + fchdy
+[4基] shefeeedy  ->  s + h + e + feeedy
+[4基] shefhedy  ->  s + h + ef + hedy
+[4基] shefshoro  ->  s + h + e + fshoro
+[4基] shekalchdy  ->  s + h + eka + lchdy
+[4基] shekcheor  ->  s + h + e + kcheor
+[4基] shekchey  ->  s + h + e + kchey
+[4基] shekchy  ->  s + h + e + kchy
+[4基] shekealy  ->  s + h + e + kealy
+[4基] shekeefy  ->  s + h + e + keefy
+[4基] shekeeody  ->  s + h + e + keeody
+[4基] shekeey  ->  s + h + e + keey
+[4基] shekeod  ->  s + h + e + keod
+[4基] sheksheet  ->  s + h + e + ksheet
+[4基] shekshey  ->  s + h + e + kshey
+[4基] shekshol  ->  s + h + e + kshol
+[4基] sheockhedy  ->  s + h + e + ockhedy
+[4基] sheockhey  ->  s + h + e + ockhey
+[4基] sheockhy  ->  s + h + e + ockhy
+[4基] sheocphy  ->  s + h + e + ocphy
+[4基] sheoctham  ->  s + h + e + octham
+[4基] sheocthy  ->  s + h + e + octhy
+[4基] sheocty  ->  s + h + eoc + ty
+[4基] sheoeed  ->  s + h + e + oeed
+[4基] sheoees  ->  s + h + e + oees
+[4基] sheoeky  ->  s + h + e + oeky
+[4基] sheoikhy  ->  s + h + eoik + hy
+[4基] sheokaiin  ->  s + h + e + okaiin
+[4基] sheokain  ->  s + h + e + okain
+[4基] sheokar  ->  s + h + e + okar
+[4基] sheokay  ->  s + h + e + okay
+[4基] sheoked  ->  s + h + e + oked
+[4基] sheokeedy  ->  s + h + e + okeedy
+[4基] sheokeey  ->  s + h + e + okeey
+[4基] sheokeol  ->  s + h + e + okeol
+[4基] sheokeor  ->  s + h + e + okeor
+[4基] sheokey  ->  s + h + e + okey
+[4基] sheoky  ->  s + h + e + oky
+[4基] sheoldam  ->  s + h + e + oldam
+[4基] sheoldy  ->  s + h + e + oldy
+[4基] sheolkain  ->  s + h + e + olkain
+[4基] sheolkchy  ->  s + h + e + olkchy
+[4基] sheolkeal  ->  s + h + e + olkeal
+[4基] sheolkedy  ->  s + h + e + olkedy
+[4基] sheolkeedy  ->  s + h + e + olkeedy
+[4基] sheolkeey  ->  s + h + e + olkeey
+[4基] sheolol  ->  s + h + e + olol
+[4基] sheolor  ->  s + h + e + olor
+[4基] sheolshody  ->  s + h + e + olshody
+[4基] sheoltey  ->  s + h + e + oltey
+[4基] sheopchy  ->  s + h + e + opchy
+[4基] sheotain  ->  s + h + e + otain
+[4基] sheotal  ->  s + h + e + otal
+[4基] sheotam  ->  s + h + e + otam
+[4基] sheotchedy  ->  s + h + e + otchedy
+[4基] sheoteoly  ->  s + h + e + oteoly
+[4基] sheoty  ->  s + h + e + oty
+[4基] shepchdy  ->  s + h + e + pchdy
+[4基] shepchedy  ->  s + h + e + pchedy
+[4基] shepchol  ->  s + h + e + pchol
+[4基] shepchy  ->  s + h + e + pchy
+[4基] sheqokam  ->  s + h + e + qokam
+[4基] shesee  ->  s + h + e + see
+[4基] sheseky  ->  s + h + e + seky
+[4基] shetch  ->  s + h + e + tch
+[4基] shetcheodchs  ->  s + he + tche + odchs
+[4基] shetchy  ->  s + h + e + tchy
+[4基] sheteal  ->  s + h + e + teal
+[4基] shetshdy  ->  s + h + e + tshdy
+[4基] shetsho  ->  s + h + e + tsho
+[4基] sheycthy  ->  s + h + e + ycthy
+[4基] sheykaiiin  ->  s + h + e + ykaiiin
+[4基] sheykal  ->  s + h + e + ykal
+[4基] sheyky  ->  s + h + e + yky
+[4基] sheytchdy  ->  s + h + e + ytchdy
+[3基] shhy  ->  s + h + hy
+[4基] shkakeedy  ->  s + h + ka + keedy
+[4基] shkhy  ->  s + h + k + hy
+[3基] shlches  ->  s + h + lches
+[4基] shoaldy  ->  s + h + oa + ldy
+[4基] shockhhy  ->  s + h + ockh + hy
+[4基] shocphhy  ->  s + h + ocph + hy
+[4基] shocthhy  ->  s + h + octh + hy
+[3基] shodypshey  ->  s + h + odypshey
+[4基] shoefcheey  ->  s + h + oe + fcheey
+[4基] shoekeal  ->  s + h + oe + keal
+[4基] shoifhy  ->  s + h + oif + hy
+[4基] shoikhy  ->  s + h + oik + hy
+[4基] shokalol  ->  s + h + oka + lol
+[4基] shokeolls  ->  s + h + oke + olls
+[4基] shokocfhy  ->  s + h + ok + ocfhy
+[4基] shokog  ->  s + h + ok + og
+[4基] sholalam  ->  s + h + ola + lam
+[3基] sholeey  ->  s + h + oleey
+[3基] sholfaiin  ->  s + h + olfaiin
+[3基] sholfchor  ->  s + h + olfchor
+[4基] sholfosdaiin  ->  s + h + olf + osdaiin
+[3基] sholkair  ->  s + h + olkair
+[3基] sholkal  ->  s + h + olkal
+[3基] sholkar  ->  s + h + olkar
+[3基] sholkeechy  ->  s + h + olkeechy
+[3基] sholkeedy  ->  s + h + olkeedy
+[3基] sholkshy  ->  s + h + olkshy
+[4基] sholschey  ->  s + h + o + lschey
+[3基] sholshdy  ->  s + h + olshdy
+[3基] sholteol  ->  s + h + olteol
+[4基] shopolchedy  ->  s + h + op + olchedy
+[3基] shoqoky  ->  s + h + oqoky
+[4基] shorqoy  ->  s + h + o + rqoy
+[4基] shotokody  ->  s + h + ot + okody
+[3基] shoyfar  ->  s + h + oyfar
+[3基] shoyty  ->  s + h + oyty
+[3基] shseor  ->  s + h + seor
+[3基] shsky  ->  s + h + sky
+[3基] shsopam  ->  s + h + sopam
+[3基] shx  ->  s + h + x
+[3基] shxam  ->  s + h + xam
+[3基] shyokeey  ->  s + h + yokeey
+[4基] skaiiodar  ->  s + k + aii + odar
+[4基] soairal  ->  s + o + ai + ral
+[4基] socfchees  ->  s + o + c + fchees
+[4基] sochorcfhy  ->  s + o + c + horcfhy
+[4基] socthh  ->  s + o + cth + h
+[4基] soefchocphy  ->  s + o + efc + hocphy
+[4基] soeokeot  ->  s + o + e + okeot
+[4基] soeteed  ->  s + o + e + teed
+[4基] soity  ->  s + o + i + ty
+[2基] solchd  ->  s + olchd
+[2基] solchedy  ->  s + olchedy
+[2基] solcheol  ->  s + olcheol
+[2基] solchey  ->  s + olchey
+[2基] solchkal  ->  s + olchkal
+[2基] solchyd  ->  s + olchyd
+[2基] solcthy  ->  s + olcthy
+[4基] soleeg  ->  s + o + lee + g
+[2基] solkaiin  ->  s + olkaiin
+[2基] solkain  ->  s + olkain
+[2基] solkchedy  ->  s + olkchedy
+[2基] solkchy  ->  s + olkchy
+[2基] solkedy  ->  s + olkedy
+[2基] solkeedy  ->  s + olkeedy
+[2基] solkeey  ->  s + olkeey
+[2基] solkes  ->  s + olkes
+[2基] solkey  ->  s + olkey
+[2基] solky  ->  s + olky
+[2基] solpchd  ->  s + olpchd
+[2基] solshed  ->  s + olshed
+[2基] solshedy  ->  s + olshedy
+[2基] solshey  ->  s + olshey
+[2基] solteedy  ->  s + olteedy
+[2基] soocth  ->  s + oocth
+[4基] soraloaly  ->  s + o + ra + loaly
+[2基] sosees  ->  s + osees
+[2基] sosoral  ->  s + osoral
+[4基] ssheckhy  ->  s + s + he + ckhy
+[2基] sshedy  ->  s + shedy
+[2基] ssheedal  ->  s + sheedal
+[2基] ssheey  ->  s + sheey
+[2基] ssheo  ->  s + sheo
+[2基] ssheodain  ->  s + sheodain
+[2基] ssheol  ->  s + sheol
+[2基] sshey  ->  s + shey
+[2基] sshkchdy  ->  s + shkchdy
+[2基] sshol  ->  s + shol
+[2基] sshor  ->  s + shor
+[3基] stolpchy  ->  s + t + olpchy
+[4基] sydarary  ->  s + y + da + rary
+[4基] sykeeeochy  ->  s + y + keee + ochy
+[2基] syokeedy  ->  s + yokeedy
+[3基] taedaiin  ->  t + a + edaiin
+[4基] taikhy  ->  t + a + ik + hy
+[4基] taiky  ->  t + a + i + ky
+[4基] taipar  ->  t + a + i + par
+[4基] tairoor  ->  t + a + i + roor
+[3基] talam  ->  t + a + lam
+[3基] talar  ->  t + a + lar
+[3基] talchos  ->  t + a + lchos
+[3基] taldain  ->  t + a + ldain
+[3基] taldar  ->  t + a + ldar
+[3基] talkl  ->  t + a + lkl
+[3基] talody  ->  t + a + lody
+[3基] talol  ->  t + a + lol
+[3基] talor  ->  t + a + lor
+[4基] talshdy  ->  t + a + l + shdy
+[3基] taor  ->  t + a + or
+[3基] taraiin  ->  t + a + raiin
+[3基] tarair  ->  t + a + rair
+[3基] tarairy  ->  t + a + rairy
+[3基] taral  ->  t + a + ral
+[3基] taram  ->  t + a + ram
+[3基] tarar  ->  t + a + rar
+[3基] tarodaiin  ->  t + a + rodaiin
+[3基] tarol  ->  t + a + rol
+[3基] taror  ->  t + a + ror
+[3基] taros  ->  t + a + ros
+[3基] tazain  ->  t + a + zain
+[4基] tchalody  ->  t + c + ha + lody
+[4基] tchdarol  ->  t + c + hda + rol
+[4基] tchdoltdy  ->  t + c + hd + oltdy
+[4基] tcheepchey  ->  t + c + hee + pchey
+[4基] tcheoko  ->  t + c + he + oko
+[4基] tcheolchy  ->  t + c + he + olchy
+[4基] tcheorsho  ->  t + c + he + orsho
+[4基] tchoarorshy  ->  t + c + hoa + rorshy
+[4基] tchodairos  ->  t + c + hodai + ros
+[3基] tchokedy  ->  t + c + hokedy
+[3基] tchoky  ->  t + c + hoky
+[3基] tchokyd  ->  t + c + hokyd
+[4基] tcholdchy  ->  t + c + h + oldchy
+[4基] tcholkaiin  ->  t + c + h + olkaiin
+[3基] tcholol  ->  t + c + holol
+[4基] tcholshol  ->  t + c + h + olshol
+[3基] tchotchey  ->  t + c + hotchey
+[3基] tchotchol  ->  t + c + hotchol
+[3基] tchotchor  ->  t + c + hotchor
+[3基] tchotshey  ->  t + c + hotshey
+[3基] tchtcho  ->  t + c + htcho
+[3基] tchykchy  ->  t + c + hykchy
+[2基] tdokchcfhy  ->  t + dokchcfhy
+[3基] tedcheo  ->  t + e + dcheo
+[3基] tedyol  ->  t + e + dyol
+[4基] teedaram  ->  t + e + eda + ram
+[4基] teeolain  ->  t + e + e + olain
+[4基] teeolteedy  ->  t + e + e + olteedy
+[4基] teodarody  ->  t + e + oda + rody
+[3基] teodeear  ->  t + e + odeear
+[3基] teodeey  ->  t + e + odeey
+[3基] teodkaiin  ->  t + e + odkaiin
+[4基] teodyteytar  ->  t + e + odyte + ytar
+[3基] teolkechey  ->  t + e + olkechey
+[3基] teolkedain  ->  t + e + olkedain
+[3基] teolshy  ->  t + e + olshy
+[3基] teoteey  ->  t + e + oteey
+[4基] teyteg  ->  t + e + yte + g
+[2基] theody  ->  t + heody
+[4基] toairshy  ->  t + o + air + shy
+[2基] tocheo  ->  t + ocheo
+[2基] tochey  ->  t + ochey
+[2基] tochody  ->  t + ochody
+[2基] tochol  ->  t + ochol
+[2基] tochon  ->  t + ochon
+[2基] tochso  ->  t + ochso
+[2基] tochsy  ->  t + ochsy
+[2基] tockhy  ->  t + ockhy
+[2基] tocpheey  ->  t + ocpheey
+[2基] tocphol  ->  t + ocphol
+[2基] tocthey  ->  t + octhey
+[2基] tocthy  ->  t + octhy
+[4基] todalain  ->  t + o + da + lain
+[4基] todaraiily  ->  t + o + da + raiily
+[4基] todashx  ->  t + oda + sh + x
+[2基] todeeey  ->  t + odeeey
+[2基] todky  ->  t + odky
+[4基] toealchs  ->  t + o + ea + lchs
+[2基] toeedy  ->  t + oeedy
+[4基] toeeedchy  ->  t + o + eee + dchy
+[4基] toeeodcthy  ->  t + o + ee + odcthy
+[2基] toees  ->  t + oees
+[4基] toeoky  ->  t + o + e + oky
+[2基] tohedy  ->  t + ohedy
+[2基] tokain  ->  t + okain
+[2基] tokar  ->  t + okar
+[2基] tokary  ->  t + okary
+[2基] tokol  ->  t + okol
+[2基] toky  ->  t + oky
+[2基] tolain  ->  t + olain
+[2基] tolair  ->  t + olair
+[2基] tolchd  ->  t + olchd
+[2基] tolchdaiin  ->  t + olchdaiin
+[2基] tolchedy  ->  t + olchedy
+[2基] tolchor  ->  t + olchor
+[2基] tolchory  ->  t + olchory
+[2基] told  ->  t + old
+[2基] toldal  ->  t + oldal
+[2基] toldshy  ->  t + oldshy
+[2基] toldy  ->  t + oldy
+[2基] toleeshal  ->  t + oleeshal
+[2基] tolkain  ->  t + olkain
+[2基] tolkal  ->  t + olkal
+[2基] tolkchdy  ->  t + olkchdy
+[2基] tolkeeedy  ->  t + olkeeedy
+[2基] tolkeol  ->  t + olkeol
+[2基] tolkey  ->  t + olkey
+[2基] tolkshey  ->  t + olkshey
+[2基] tolm  ->  t + olm
+[2基] tolokeedy  ->  t + olokeedy
+[2基] tolol  ->  t + olol
+[2基] tolor  ->  t + olor
+[2基] tolos  ->  t + olos
+[2基] tolpchy  ->  t + olpchy
+[2基] tolsasy  ->  t + olsasy
+[2基] tolsheo  ->  t + olsheo
+[2基] tolsheol  ->  t + olsheol
+[2基] tolshey  ->  t + olshey
+[2基] tolshosor  ->  t + olshosor
+[2基] tolshy  ->  t + olshy
+[2基] tolteedy  ->  t + olteedy
+[2基] topaiin  ->  t + opaiin
+[2基] torain  ->  t + orain
+[2基] torchey  ->  t + orchey
+[2基] torchy  ->  t + orchy
+[4基] torolshsdy  ->  t + o + r + olshsdy
+[2基] toror  ->  t + oror
+[2基] torshor  ->  t + orshor
+[3基] tosh  ->  t + o + sh
+[3基] tosheo  ->  t + o + sheo
+[3基] toshey  ->  t + o + shey
+[3基] toshy  ->  t + o + shy
+[2基] totchy  ->  t + otchy
+[2基] totol  ->  t + otol
+[4基] tshdcsey  ->  t + s + hdc + sey
+[4基] tshedky  ->  t + s + he + dky
+[4基] tsheoarom  ->  t + s + heoa + rom
+[4基] tsheokeedy  ->  t + s + he + okeedy
+[2基] tshodeesy  ->  t + shodeesy
+[2基] tshodpy  ->  t + shodpy
+[2基] tshokeody  ->  t + shokeody
+[2基] tshoky  ->  t + shoky
+[2基] tsholdy  ->  t + sholdy
+[2基] tsholol  ->  t + sholol
+[2基] typchey  ->  t + ypchey
+[3基] xaloeees  ->  x + a + loeees
+[4基] ychealod  ->  y + c + hea + lod
+[4基] ycheckhey  ->  y + c + he + ckhey
+[4基] ychecthy  ->  y + c + he + cthy
+[4基] ycheealkaiin  ->  y + c + heea + lkaiin
+[4基] ycheeckhy  ->  y + c + hee + ckhy
+[4基] ycheekeey  ->  y + c + hee + keey
+[4基] ycheeytal  ->  y + c + hee + ytal
+[4基] ycheeytydaiin  ->  y + c + hee + ytydaiin
+[4基] ychekchy  ->  y + c + he + kchy
+[4基] ycheochy  ->  y + c + he + ochy
+[4基] ycheockhy  ->  y + c + he + ockhy
+[4基] ycheoky  ->  y + c + he + oky
+[4基] ycheoraiin  ->  y + c + he + oraiin
+[4基] ycheoto  ->  y + c + he + oto
+[4基] ychockaey  ->  y + choc + ka + ey
+[3基] ychockhy  ->  y + c + hockhy
+[3基] ychocthy  ->  y + c + hocthy
+[3基] ychoees  ->  y + c + hoees
+[4基] ychoopy  ->  y + c + h + oopy
+[4基] ychopordg  ->  y + c + hop + ordg
+[3基] ychykchy  ->  y + c + hykchy
+[3基] ycseol  ->  y + c + seol
+[4基] ydag  ->  y + d + a + g
+[4基] ydairol  ->  y + d + ai + rol
+[4基] ydaraishy  ->  y + da + rai + shy
+[4基] ydaral  ->  y + d + a + ral
+[4基] ydarchom  ->  y + d + a + rchom
+[3基] yekees  ->  y + e + kees
+[3基] yfolaiin  ->  y + f + olaiin
+[3基] yfoldy  ->  y + f + oldy
+[4基] ykaipy  ->  y + k + ai + py
+[4基] ykairaiin  ->  y + k + ai + raiin
+[4基] ykairolky  ->  y + k + air + olky
+[4基] ykaky  ->  y + k + a + ky
+[4基] ykald  ->  y + k + a + ld
+[4基] ykaldy  ->  y + k + a + ldy
+[4基] ykalkain  ->  y + k + a + lkain
+[4基] ykalokain  ->  y + k + a + lokain
+[4基] ykanam  ->  y + k + an + am
+[4基] ykarain  ->  y + k + a + rain
+[4基] ykaras  ->  y + k + a + ras
+[4基] ykarshy  ->  y + k + ar + shy
+[4基] ykchdg  ->  y + k + c + hdg
+[4基] ykcheg  ->  y + k + che + g
+[4基] ykchhdy  ->  y + k + ch + hdy
+[4基] ykchochdy  ->  y + k + c + hochdy
+[4基] ykchokeo  ->  y + k + c + hokeo
+[4基] ykcholqod  ->  y + k + cho + lqod
+[4基] ykchotchy  ->  y + k + c + hotchy
+[4基] ykchscheg  ->  y + kch + sche + g
+[4基] ykcsedy  ->  y + k + c + sedy
+[4基] ykecsey  ->  y + k + ec + sey
+[4基] ykecthhy  ->  y + ke + cth + hy
+[4基] ykedckhy  ->  y + k + e + dckhy
+[4基] ykeealar  ->  y + k + eea + lar
+[4基] ykeealkey  ->  y + k + eea + lkey
+[4基] ykeeeedaiir  ->  y + k + e + eeedaiir
+[4基] ykeeochody  ->  y + k + ee + ochody
+[4基] ykeeykeey  ->  y + k + ee + ykeey
+[4基] ykeockhey  ->  y + k + e + ockhey
+[4基] ykeoees  ->  y + k + e + oees
+[4基] ykeoeshy  ->  y + k + e + oeshy
+[4基] ykeolal  ->  y + k + e + olal
+[4基] ykeoldy  ->  y + k + e + oldy
+[4基] ykeoshe  ->  y + k + eo + she
+[4基] ykesodarar  ->  y + ke + soda + rar
+[3基] ykhey  ->  y + k + hey
+[3基] ykhody  ->  y + k + hody
+[3基] ykhor  ->  y + k + hor
+[3基] ykhy  ->  y + k + hy
+[3基] ykledey  ->  y + k + ledey
+[3基] ykocfhy  ->  y + k + ocfhy
+[3基] ykoear  ->  y + k + oear
+[3基] ykofar  ->  y + k + ofar
+[3基] ykolaiin  ->  y + k + olaiin
+[4基] ykolairol  ->  y + k + olai + rol
+[3基] ykoldam  ->  y + k + oldam
+[3基] ykoldy  ->  y + k + oldy
+[3基] ykolody  ->  y + k + olody
+[3基] ykoloin  ->  y + k + oloin
+[3基] ykolor  ->  y + k + olor
+[3基] ykooar  ->  y + k + ooar
+[3基] ykychy  ->  y + k + ychy
+[3基] ykyka  ->  y + k + yka
+[3基] ykykaiin  ->  y + k + ykaiin
+[3基] ykyral  ->  y + k + yral
+[4基] yoeteey  ->  y + o + e + teey
+[4基] yokalod  ->  y + o + ka + lod
+[2基] yolkol  ->  y + olkol
+[2基] yolsheey  ->  y + olsheey
+[4基] ypchedpy  ->  y + p + che + dpy
+[4基] ypcheg  ->  y + p + che + g
+[4基] ypchocfy  ->  y + p + choc + fy
+[4基] ypchocpheosaiin  ->  y + p + c + hocpheosaiin
+[4基] ypcholdy  ->  y + p + c + holdy
+[3基] yphoo  ->  y + p + hoo
+[3基] ypolcheey  ->  y + p + olcheey
+[3基] ypolol  ->  y + p + olol
+[4基] ypsharal  ->  y + p + sha + ral
+[3基] yroleeey  ->  y + r + oleeey
+[4基] ysaldal  ->  y + s + a + ldal
+[4基] ysarasod  ->  y + sa + ra + sod
+[2基] yshain  ->  y + shain
+[2基] yshar  ->  y + shar
+[2基] yshchey  ->  y + shchey
+[2基] yshdain  ->  y + shdain
+[2基] yshdal  ->  y + shdal
+[2基] yshe  ->  y + she
+[2基] ysheal  ->  y + sheal
+[4基] yshealdy  ->  y + s + hea + ldy
+[4基] yshealkair  ->  y + s + hea + lkair
+[2基] yshear  ->  y + shear
+[2基] yshedaiin  ->  y + shedaiin
+[2基] yshedair  ->  y + shedair
+[2基] yshedy  ->  y + shedy
+[2基] ysheed  ->  y + sheed
+[2基] ysheedal  ->  y + sheedal
+[2基] ysheedy  ->  y + sheedy
+[2基] ysheees  ->  y + sheees
+[2基] ysheeo  ->  y + sheeo
+[2基] ysheeoaiin  ->  y + sheeoaiin
+[2基] ysheeod  ->  y + sheeod
+[2基] ysheeody  ->  y + sheeody
+[2基] yshees  ->  y + shees
+[2基] ysheey  ->  y + sheey
+[2基] ysheo  ->  y + sheo
+[2基] ysheoar  ->  y + sheoar
+[4基] ysheockhy  ->  y + s + he + ockhy
+[2基] ysheod  ->  y + sheod
+[2基] ysheody  ->  y + sheody
+[2基] ysheol  ->  y + sheol
+[2基] ysheor  ->  y + sheor
+[2基] ysheos  ->  y + sheos
+[2基] yshesos  ->  y + shesos
+[2基] yshesy  ->  y + shesy
+[2基] yshey  ->  y + shey
+[2基] ysho  ->  y + sho
+[2基] yshoain  ->  y + shoain
+[2基] yshoiin  ->  y + shoiin
+[2基] yshol  ->  y + shol
+[4基] ysholshy  ->  y + s + h + olshy
+[2基] yshor  ->  y + shor
+[2基] yshos  ->  y + shos
+[2基] yshs  ->  y + shs
+[2基] yshy  ->  y + shy
+[4基] yskhy  ->  y + s + k + hy
+[4基] ytaipom  ->  y + t + ai + pom
+[4基] ytairal  ->  y + t + ai + ral
+[4基] ytalar  ->  y + t + a + lar
+[4基] ytalchos  ->  y + t + a + lchos
+[4基] ytalody  ->  y + t + a + lody
+[4基] ytapy  ->  y + t + a + py
+[4基] ytarar  ->  y + t + a + rar
+[4基] ytarem  ->  y + t + a + rem
+[4基] ytarody  ->  y + t + a + rody
+[4基] ytasal  ->  y + t + a + sal
+[4基] ytashy  ->  y + t + a + shy
+[4基] ytchcseey  ->  y + t + chc + seey
+[4基] ytcheodytor  ->  y + t + che + odytor
+[4基] ytchoky  ->  y + t + c + hoky
+[3基] ytdg  ->  y + t + dg
+[4基] ytecheol  ->  y + t + e + cheol
+[4基] ytedshedy  ->  y + t + e + dshedy
+[4基] ytedykor  ->  y + t + e + dykor
+[4基] yteechypchy  ->  y + t + eec + hypchy
+[4基] yteeoldy  ->  y + t + ee + oldy
+[4基] yteochy  ->  y + t + e + ochy
+[4基] yteokar  ->  y + t + e + okar
+[4基] yteold  ->  y + t + e + old
+[4基] yteoldy  ->  y + t + e + oldy
+[4基] ytoeopchey  ->  y + t + oe + opchey
+[4基] ytoetear  ->  y + t + oe + tear
+[3基] ytokar  ->  y + t + okar
+[3基] ytolaiin  ->  y + t + olaiin
+[3基] ytolaiir  ->  y + t + olaiir
+[3基] ytoldy  ->  y + t + oldy
+[3基] ytolkal  ->  y + t + olkal
+[3基] ytorory  ->  y + t + orory
+[3基] ytoryd  ->  y + t + oryd
+[3基] ytychy  ->  y + t + ychy
+[3基] zepchy  ->  z + e + pchy
